@@ -1,0 +1,106 @@
+[
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/dimensions/customers_updates_2024-01-19.csv",
+        "file_name": "customers_updates_2024-01-19.csv",
+        "sink_folder": "dimensions/customers"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/dimensions/customers.csv",
+        "file_name": "customers.csv",
+        "sink_folder": "dimensions/customers"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/dimensions/products.csv",
+        "file_name": "products.csv",
+        "sink_folder": "dimensions/products"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/dimensions/sales_reps.csv",
+        "file_name": "sales_reps.csv",
+        "sink_folder": "dimensions/sales_reps"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/dimensions/stores.csv",
+        "file_name": "stores.csv",
+        "sink_folder": "dimensions/stores"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-15.csv",
+        "file_name": "order_items_2024-01-15.csv",
+        "sink_folder": "facts/order_items" 
+    },{
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-16.csv",
+        "file_name": "order_items_2024-01-16.csv",
+        "sink_folder": "facts/order_items" 
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-17.csv",
+        "file_name": "order_items_2024-01-17.csv",
+        "sink_folder": "facts/order_items" 
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-18.csv",
+        "file_name": "order_items_2024-01-18.csv",
+        "sink_folder": "facts/order_items" 
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-19.csv",
+        "file_name": "order_items_2024-01-19.csv",
+        "sink_folder": "facts/order_items" 
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-20.csv",
+        "file_name": "order_items_2024-01-20.csv",
+        "sink_folder": "facts/order_items" 
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-21.csv",
+        "file_name": "order_items_2024-01-21.csv",
+        "sink_folder": "facts/order_items" 
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-15.csv",
+        "file_name": "orders_2024-01-15.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-16.csv",
+        "file_name": "orders_2024-01-16.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-17.csv",
+        "file_name": "orders_2024-01-17.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-18.csv",
+        "file_name": "orders_2024-01-18.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-19.csv",
+        "file_name": "orders_2024-01-19.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-20.csv",
+        "file_name": "orders_2024-01-20.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-21.csv",
+        "file_name": "orders_2024-01-21.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/returns/returns_2024-01-17.csv",
+        "file_name": "returns_2024-01-17.csv",
+        "sink_folder": "facts/returns"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/returns/returns_2024-01-18.csv",
+        "file_name": "returns_2024-01-18.csv",
+        "sink_folder": "facts/returns"
+    }  
+]
