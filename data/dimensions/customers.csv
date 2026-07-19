@@ -1,0 +1,401 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,country,segment,created_at,updated_at
+CUST00001,Linda,Smith,linda.smith1@example.com,(428) 342-2679,8945 Main St,Dallas,TX,87397,USA,Corporate,2022-09-08,2022-09-08
+CUST00002,Robert,Smith,robert.smith2@example.com,(438) 717-1434,9205 Oak Ave,Chicago,IL,95181,USA,Home Office,2022-08-12,2022-08-12
+CUST00003,Hassan,Wilson,hassan.wilson3@example.com,(803) 484-1106,2625 Sunset Blvd,San Diego,CA,65392,USA,Corporate,2023-04-05,2023-04-05
+CUST00004,Sarah,Jones,sarah.jones4@example.com,(304) 294-7224,1594 Maple Dr,San Antonio,TX,55082,USA,Home Office,2022-12-11,2022-12-11
+CUST00005,Thomas,Silva,thomas.silva5@example.com,(749) 327-7201,1301 Elm St,Los Angeles,CA,48427,USA,Home Office,2023-04-16,2023-04-16
+CUST00006,Nadia,Yamamoto,nadia.yamamoto6@example.com,(396) 921-2139,760 Sunset Blvd,Denver,CO,39871,USA,Corporate,2023-08-15,2023-08-15
+CUST00007,Jennifer,Ali,jennifer.ali7@example.com,(589) 484-8428,5987 Oak Ave,San Diego,CA,58520,USA,Corporate,2022-04-14,2022-04-14
+CUST00008,Susan,Khan,susan.khan8@example.com,(863) 273-3803,8761 Sunset Blvd,Dallas,TX,42087,USA,Consumer,2023-12-01,2023-12-01
+CUST00009,Diego,Gonzalez,diego.gonzalez9@example.com,(904) 770-4598,5323 Main St,Dallas,TX,40021,USA,Consumer,2023-10-18,2023-10-18
+CUST00010,Priya,Gonzalez,priya.gonzalez10@example.com,(416) 780-6155,3493 Sunset Blvd,Dallas,TX,75435,USA,Corporate,2022-03-09,2022-03-09
+CUST00011,Diego,Jones,diego.jones11@example.com,(452) 962-9830,4314 Sunset Blvd,Dallas,TX,86622,USA,Corporate,2022-05-23,2022-05-23
+CUST00012,Elena,Gonzalez,elena.gonzalez12@example.com,(341) 721-9085,1499 Main St,Denver,CO,24371,USA,Consumer,2022-08-13,2022-08-13
+CUST00013,William,Silva,william.silva13@example.com,(265) 594-7252,9773 2nd St,Atlanta,GA,79352,USA,Corporate,2023-09-03,2023-09-03
+CUST00014,Mei,Ali,mei.ali14@example.com,(938) 317-9797,4381 Sunset Blvd,New York,NY,54587,USA,Consumer,2023-11-28,2023-11-28
+CUST00015,Charles,Wilson,charles.wilson15@example.com,(203) 939-5315,8211 Oak Ave,Philadelphia,PA,76542,USA,Consumer,2023-04-10,2023-04-10
+CUST00016,Karen,Kumar,karen.kumar16@example.com,(403) 356-7126,2656 Elm St,Charlotte,NC,79514,USA,Consumer,2023-09-16,2023-09-16
+CUST00017,Kwame,Hernandez,kwame.hernandez17@example.com,(314) 571-6038,3933 Main St,Portland,OR,41571,USA,Home Office,2022-01-20,2022-01-20
+CUST00018,Jennifer,Williams,jennifer.williams18@example.com,(978) 745-3060,2113 Sunset Blvd,Portland,OR,72296,USA,Home Office,2022-03-12,2022-03-12
+CUST00019,William,Rodriguez,william.rodriguez19@example.com,(633) 416-9835,3305 Sunset Blvd,Charlotte,NC,50857,USA,Corporate,2023-09-14,2023-09-14
+CUST00020,Fatima,Anderson,fatima.anderson20@example.com,(323) 453-4681,1059 Maple Dr,Charlotte,NC,12757,USA,Home Office,2023-04-08,2023-04-08
+CUST00021,Mei,Davis,mei.davis21@example.com,(207) 272-1964,3760 Main St,Minneapolis,MN,14117,USA,Corporate,2022-08-14,2022-08-14
+CUST00022,John,Taylor,john.taylor22@example.com,(885) 697-4510,8844 Oak Ave,San Diego,CA,84847,USA,Home Office,2022-10-13,2022-10-13
+CUST00023,Ravi,Davis,ravi.davis23@example.com,(394) 296-2588,7072 Maple Dr,Portland,OR,65519,USA,Corporate,2023-02-21,2023-02-21
+CUST00024,Diego,Ali,diego.ali24@example.com,(869) 861-2612,1003 2nd St,Los Angeles,CA,54473,USA,Consumer,2023-11-21,2023-11-21
+CUST00025,Jessica,Miller,jessica.miller25@example.com,(659) 343-7912,3016 Maple Dr,San Antonio,TX,70637,USA,Consumer,2023-07-04,2023-07-04
+CUST00026,John,Anderson,john.anderson26@example.com,(251) 867-9856,251 Main St,Detroit,MI,40982,USA,Consumer,2022-04-11,2022-04-11
+CUST00027,Yuki,Thomas,yuki.thomas27@example.com,(610) 260-3697,6219 Main St,Portland,OR,61173,USA,Corporate,2022-08-07,2022-08-07
+CUST00028,Diego,Martinez,diego.martinez28@example.com,(877) 935-8973,2546 Oak Ave,Atlanta,GA,48890,USA,Consumer,2023-07-24,2023-07-24
+CUST00029,Patricia,Jackson,patricia.jackson29@example.com,(965) 521-1936,831 Elm St,Detroit,MI,72493,USA,Home Office,2022-03-04,2022-03-04
+CUST00030,Ingrid,Garcia,ingrid.garcia30@example.com,(282) 390-2122,9759 Main St,Los Angeles,CA,98501,USA,Consumer,2023-06-05,2023-06-05
+CUST00031,Sofia,Brown,sofia.brown31@example.com,(792) 808-1651,1353 2nd St,Minneapolis,MN,96163,USA,Home Office,2022-09-10,2022-09-10
+CUST00032,Lucas,Taylor,lucas.taylor32@example.com,(409) 885-6147,3920 Maple Dr,Seattle,WA,61876,USA,Consumer,2022-09-25,2022-09-25
+CUST00033,Karen,Anderson,karen.anderson33@example.com,(209) 669-2638,1210 Elm St,Seattle,WA,37938,USA,Home Office,2022-03-16,2022-03-16
+CUST00034,Thomas,Jones,thomas.jones34@example.com,(450) 578-5669,2594 2nd St,Denver,CO,81200,USA,Home Office,2022-03-12,2022-03-12
+CUST00035,Karen,Martin,karen.martin35@example.com,(883) 767-5905,1707 Oak Ave,Charlotte,NC,44664,USA,Consumer,2022-01-09,2022-01-09
+CUST00036,Michael,Kim,michael.kim36@example.com,(478) 488-4450,5627 Oak Ave,Detroit,MI,93130,USA,Corporate,2022-06-09,2022-06-09
+CUST00037,Omar,Thomas,omar.thomas37@example.com,(294) 849-7939,4543 Main St,Dallas,TX,10464,USA,Corporate,2022-02-22,2022-02-22
+CUST00038,David,Patel,david.patel38@example.com,(959) 652-8007,9199 Main St,Dallas,TX,24663,USA,Consumer,2022-06-15,2022-06-15
+CUST00039,Elizabeth,Moore,elizabeth.moore39@example.com,(796) 765-3426,7051 Oak Ave,Los Angeles,CA,15482,USA,Corporate,2023-01-14,2023-01-14
+CUST00040,Fatima,Yamamoto,fatima.yamamoto40@example.com,(415) 898-5088,1694 Maple Dr,Los Angeles,CA,83385,USA,Corporate,2023-01-02,2023-01-02
+CUST00041,Nadia,Kim,nadia.kim41@example.com,(366) 381-7755,416 Oak Ave,Phoenix,AZ,53540,USA,Corporate,2022-08-31,2022-08-31
+CUST00042,Jessica,Rodriguez,jessica.rodriguez42@example.com,(591) 239-8711,3654 Oak Ave,Philadelphia,PA,70332,USA,Corporate,2022-04-21,2022-04-21
+CUST00043,Karen,Kumar,karen.kumar43@example.com,(224) 875-4164,6538 Maple Dr,San Diego,CA,46517,USA,Consumer,2022-08-17,2022-08-17
+CUST00044,Sarah,Lopez,sarah.lopez44@example.com,(895) 749-6425,462 Main St,Charlotte,NC,44237,USA,Consumer,2023-02-14,2023-02-14
+CUST00045,Elena,Rodriguez,elena.rodriguez45@example.com,(810) 644-6663,5149 2nd St,Los Angeles,CA,89457,USA,Home Office,2022-04-22,2022-04-22
+CUST00046,Linda,Gonzalez,linda.gonzalez46@example.com,(460) 245-8144,37 Elm St,Minneapolis,MN,80575,USA,Home Office,2022-07-14,2022-07-14
+CUST00047,Richard,Lopez,richard.lopez47@example.com,(880) 538-6143,2051 Sunset Blvd,Atlanta,GA,49363,USA,Home Office,2022-03-13,2022-03-13
+CUST00048,Karen,Khan,karen.khan48@example.com,(612) 913-5844,9093 Oak Ave,Atlanta,GA,35144,USA,Corporate,2022-12-01,2022-12-01
+CUST00049,Carlos,Khan,carlos.khan49@example.com,(782) 508-7653,8987 Main St,Philadelphia,PA,49829,USA,Corporate,2023-09-23,2023-09-23
+CUST00050,Susan,Wilson,susan.wilson50@example.com,(870) 529-8618,7248 2nd St,Minneapolis,MN,98555,USA,Consumer,2023-09-14,2023-09-14
+CUST00051,Omar,Thomas,omar.thomas51@example.com,(286) 490-9445,5501 Main St,Philadelphia,PA,40784,USA,Home Office,2023-11-06,2023-11-06
+CUST00052,Karen,Davis,karen.davis52@example.com,(225) 247-5011,7794 Elm St,San Antonio,TX,19545,USA,Corporate,2022-05-31,2022-05-31
+CUST00053,Yuki,Yamamoto,yuki.yamamoto53@example.com,(935) 913-7291,8109 2nd St,Minneapolis,MN,41979,USA,Consumer,2022-07-19,2022-07-19
+CUST00054,James,Yamamoto,james.yamamoto54@example.com,(424) 380-9486,7621 Main St,Houston,TX,83060,USA,Consumer,2023-03-12,2023-03-12
+CUST00055,Linda,Anderson,linda.anderson55@example.com,(883) 743-6198,7261 Elm St,Phoenix,AZ,76162,USA,Corporate,2023-04-21,2023-04-21
+CUST00056,Mei,Anderson,mei.anderson56@example.com,(660) 465-5050,4553 Elm St,Philadelphia,PA,73517,USA,Home Office,2023-05-02,2023-05-02
+CUST00057,Jessica,Rodriguez,jessica.rodriguez57@example.com,(930) 492-4841,4461 Maple Dr,Miami,FL,51904,USA,Home Office,2022-03-21,2022-03-21
+CUST00058,Jennifer,Jones,jennifer.jones58@example.com,(592) 910-3503,3515 Main St,Phoenix,AZ,64377,USA,Corporate,2022-08-25,2022-08-25
+CUST00059,Amit,Moore,amit.moore59@example.com,(263) 411-7883,6391 Elm St,Miami,FL,12560,USA,Home Office,2023-03-02,2023-03-02
+CUST00060,Carlos,Thomas,carlos.thomas60@example.com,(505) 971-7389,6875 Elm St,New York,NY,81582,USA,Home Office,2022-12-27,2022-12-27
+CUST00061,Joseph,Thomas,joseph.thomas61@example.com,(646) 697-1475,6381 Maple Dr,San Diego,CA,97670,USA,Home Office,2022-10-07,2022-10-07
+CUST00062,Sofia,Kim,sofia.kim62@example.com,(330) 837-9751,451 2nd St,Philadelphia,PA,87580,USA,Home Office,2023-04-24,2023-04-24
+CUST00063,Mary,Williams,mary.williams63@example.com,(672) 386-1823,4272 2nd St,Atlanta,GA,52906,USA,Consumer,2022-05-19,2022-05-19
+CUST00064,Diego,Hernandez,diego.hernandez64@example.com,(484) 970-7906,4143 Main St,Seattle,WA,71644,USA,Consumer,2023-01-24,2023-01-24
+CUST00065,Hassan,Johnson,hassan.johnson65@example.com,(865) 270-1659,518 Oak Ave,Denver,CO,36130,USA,Consumer,2022-08-18,2022-08-18
+CUST00066,Nadia,Jones,nadia.jones66@example.com,(684) 885-2874,9250 Oak Ave,San Diego,CA,70952,USA,Home Office,2022-05-10,2022-05-10
+CUST00067,Thomas,Nguyen,thomas.nguyen67@example.com,(820) 821-2876,2693 Maple Dr,Denver,CO,24168,USA,Home Office,2022-06-21,2022-06-21
+CUST00068,Mary,Mensah,mary.mensah68@example.com,(893) 584-7498,3259 Main St,Austin,TX,87607,USA,Home Office,2023-08-13,2023-08-13
+CUST00069,Jessica,Brown,jessica.brown69@example.com,(814) 323-1672,5698 Elm St,Austin,TX,66148,USA,Home Office,2023-12-02,2023-12-02
+CUST00070,Fatima,Williams,fatima.williams70@example.com,(549) 212-7882,8041 Main St,Charlotte,NC,66822,USA,Corporate,2023-10-26,2023-10-26
+CUST00071,Diego,Chen,diego.chen71@example.com,(380) 951-9548,4435 Elm St,Phoenix,AZ,80539,USA,Corporate,2023-03-22,2023-03-22
+CUST00072,Diego,Wilson,diego.wilson72@example.com,(530) 451-2419,4579 2nd St,Minneapolis,MN,41963,USA,Corporate,2022-10-02,2022-10-02
+CUST00073,Lucas,Martin,lucas.martin73@example.com,(229) 706-6325,2989 2nd St,Boston,MA,37802,USA,Corporate,2022-12-11,2022-12-11
+CUST00074,Thomas,Hernandez,thomas.hernandez74@example.com,(918) 482-1166,8474 Oak Ave,Dallas,TX,21221,USA,Consumer,2023-09-03,2023-09-03
+CUST00075,Yuki,Thomas,yuki.thomas75@example.com,(907) 687-9041,7352 Main St,Detroit,MI,22196,USA,Corporate,2022-09-04,2022-09-04
+CUST00076,Joseph,Gonzalez,joseph.gonzalez76@example.com,(879) 795-7046,7763 Elm St,San Diego,CA,79588,USA,Corporate,2022-11-10,2022-11-10
+CUST00077,Chen,Kim,chen.kim77@example.com,(560) 919-8434,4448 Maple Dr,Detroit,MI,42951,USA,Consumer,2022-12-05,2022-12-05
+CUST00078,Linda,Kim,linda.kim78@example.com,(322) 960-9779,3043 Oak Ave,San Antonio,TX,38361,USA,Home Office,2022-11-20,2022-11-20
+CUST00079,Ravi,Rodriguez,ravi.rodriguez79@example.com,(811) 489-2647,3190 Maple Dr,Minneapolis,MN,39816,USA,Corporate,2023-06-22,2023-06-22
+CUST00080,Barbara,Martinez,barbara.martinez80@example.com,(329) 480-1745,903 Elm St,New York,NY,48290,USA,Home Office,2023-07-01,2023-07-01
+CUST00081,David,Patel,david.patel81@example.com,(212) 787-5658,7700 2nd St,Portland,OR,67733,USA,Corporate,2022-04-16,2022-04-16
+CUST00082,Barbara,Johnson,barbara.johnson82@example.com,(316) 266-7565,8066 Main St,Dallas,TX,85631,USA,Home Office,2023-05-05,2023-05-05
+CUST00083,Patricia,Jones,patricia.jones83@example.com,(511) 287-5066,1950 Elm St,Phoenix,AZ,64548,USA,Home Office,2023-07-31,2023-07-31
+CUST00084,Kwame,Silva,kwame.silva84@example.com,(994) 735-7232,7391 2nd St,Nashville,TN,48974,USA,Home Office,2022-08-20,2022-08-20
+CUST00085,Chen,Martinez,chen.martinez85@example.com,(261) 824-2625,3414 Sunset Blvd,Minneapolis,MN,37659,USA,Corporate,2023-09-28,2023-09-28
+CUST00086,Jennifer,Garcia,jennifer.garcia86@example.com,(765) 276-3564,53 2nd St,San Diego,CA,69048,USA,Home Office,2022-06-27,2022-06-27
+CUST00087,Kwame,Thomas,kwame.thomas87@example.com,(437) 495-5632,7448 Main St,Austin,TX,40595,USA,Corporate,2022-02-03,2022-02-03
+CUST00088,Elena,Khan,elena.khan88@example.com,(317) 757-4683,2451 Maple Dr,San Antonio,TX,28643,USA,Consumer,2023-03-12,2023-03-12
+CUST00089,Patricia,Garcia,patricia.garcia89@example.com,(966) 782-5728,7205 Main St,Austin,TX,71433,USA,Home Office,2023-09-02,2023-09-02
+CUST00090,Karen,Chen,karen.chen90@example.com,(712) 752-9090,7182 Main St,Boston,MA,88385,USA,Consumer,2022-10-06,2022-10-06
+CUST00091,Chen,Kim,chen.kim91@example.com,(456) 226-2496,3760 Sunset Blvd,Seattle,WA,85392,USA,Home Office,2023-09-11,2023-09-11
+CUST00092,Mary,Nguyen,mary.nguyen92@example.com,(241) 981-3870,7718 Elm St,Dallas,TX,95394,USA,Corporate,2023-08-14,2023-08-14
+CUST00093,Sarah,Garcia,sarah.garcia93@example.com,(850) 703-2494,7710 Maple Dr,Minneapolis,MN,63523,USA,Corporate,2023-03-23,2023-03-23
+CUST00094,Priya,Khan,priya.khan94@example.com,(537) 621-9117,4732 Sunset Blvd,Houston,TX,62488,USA,Home Office,2022-06-14,2022-06-14
+CUST00095,Robert,Anderson,robert.anderson95@example.com,(458) 531-2899,6632 Elm St,Chicago,IL,10150,USA,Home Office,2022-11-19,2022-11-19
+CUST00096,Hassan,Anderson,hassan.anderson96@example.com,(392) 730-6927,8177 Sunset Blvd,Atlanta,GA,67939,USA,Consumer,2022-02-25,2022-02-25
+CUST00097,Susan,Rodriguez,susan.rodriguez97@example.com,(494) 648-8941,1999 Main St,Detroit,MI,92578,USA,Home Office,2022-05-15,2022-05-15
+CUST00098,Jessica,Chen,jessica.chen98@example.com,(764) 214-7684,1537 Oak Ave,Philadelphia,PA,24871,USA,Corporate,2022-11-15,2022-11-15
+CUST00099,Linda,Patel,linda.patel99@example.com,(933) 498-9337,4489 2nd St,Phoenix,AZ,73242,USA,Corporate,2023-05-26,2023-05-26
+CUST00100,Jessica,Anderson,jessica.anderson100@example.com,(592) 395-9327,2246 Main St,Detroit,MI,46208,USA,Corporate,2022-05-29,2022-05-29
+CUST00101,Amit,Mensah,amit.mensah101@example.com,(202) 489-5891,9626 Elm St,Charlotte,NC,96499,USA,Corporate,2022-10-01,2022-10-01
+CUST00102,Elizabeth,Anderson,elizabeth.anderson102@example.com,(553) 540-9903,6190 2nd St,Detroit,MI,52176,USA,Consumer,2023-05-11,2023-05-11
+CUST00103,Jessica,Jackson,jessica.jackson103@example.com,(994) 620-1715,5223 Sunset Blvd,Boston,MA,71993,USA,Home Office,2022-08-28,2022-08-28
+CUST00104,Carlos,Gonzalez,carlos.gonzalez104@example.com,(237) 329-9229,9679 Maple Dr,Phoenix,AZ,23154,USA,Corporate,2023-05-23,2023-05-23
+CUST00105,Michael,Taylor,michael.taylor105@example.com,(939) 347-7717,2539 Main St,Miami,FL,71537,USA,Corporate,2022-01-16,2022-01-16
+CUST00106,Amit,Martin,amit.martin106@example.com,(282) 536-9742,6236 Maple Dr,Boston,MA,92155,USA,Home Office,2023-10-28,2023-10-28
+CUST00107,Anna,Ali,anna.ali107@example.com,(832) 270-4846,4718 Oak Ave,Detroit,MI,21846,USA,Corporate,2022-02-06,2022-02-06
+CUST00108,Michael,Nguyen,michael.nguyen108@example.com,(370) 910-5906,484 Main St,Houston,TX,52516,USA,Consumer,2023-03-31,2023-03-31
+CUST00109,Charles,Lopez,charles.lopez109@example.com,(349) 450-9702,6761 Elm St,Denver,CO,99364,USA,Consumer,2023-03-18,2023-03-18
+CUST00110,William,Garcia,william.garcia110@example.com,(591) 834-4945,8163 Elm St,Chicago,IL,28758,USA,Consumer,2023-09-17,2023-09-17
+CUST00111,Diego,Patel,diego.patel111@example.com,(461) 882-1153,7632 Maple Dr,Dallas,TX,98815,USA,Home Office,2023-04-16,2023-04-16
+CUST00112,William,Williams,william.williams112@example.com,(801) 506-7951,4107 2nd St,Miami,FL,49599,USA,Consumer,2022-12-20,2022-12-20
+CUST00113,Carlos,Ali,carlos.ali113@example.com,(442) 590-6881,9427 Maple Dr,Portland,OR,48696,USA,Consumer,2022-04-20,2022-04-20
+CUST00114,Sofia,Rodriguez,sofia.rodriguez114@example.com,(902) 996-1803,9945 Sunset Blvd,New York,NY,75107,USA,Corporate,2023-08-03,2023-08-03
+CUST00115,Joseph,Martin,joseph.martin115@example.com,(851) 394-5106,2250 Sunset Blvd,Denver,CO,22735,USA,Home Office,2022-08-13,2022-08-13
+CUST00116,Robert,Martinez,robert.martinez116@example.com,(793) 573-3153,1486 Maple Dr,Miami,FL,52823,USA,Home Office,2022-02-04,2022-02-04
+CUST00117,Yuki,Garcia,yuki.garcia117@example.com,(752) 574-9697,8231 Maple Dr,San Antonio,TX,31567,USA,Corporate,2022-05-16,2022-05-16
+CUST00118,Ravi,Silva,ravi.silva118@example.com,(317) 679-2233,2316 Oak Ave,Austin,TX,98647,USA,Home Office,2022-12-13,2022-12-13
+CUST00119,Sofia,Ali,sofia.ali119@example.com,(292) 604-1228,4342 Elm St,Detroit,MI,26199,USA,Corporate,2023-01-10,2023-01-10
+CUST00120,Fatima,Khan,fatima.khan120@example.com,(590) 853-7086,1785 Sunset Blvd,Dallas,TX,40647,USA,Corporate,2023-08-22,2023-08-22
+CUST00121,Mary,Martin,mary.martin121@example.com,(824) 426-2035,7616 Sunset Blvd,Detroit,MI,49608,USA,Home Office,2022-12-02,2022-12-02
+CUST00122,Yuki,Brown,yuki.brown122@example.com,(238) 511-9071,1912 Main St,Phoenix,AZ,40775,USA,Home Office,2022-02-16,2022-02-16
+CUST00123,David,Gonzalez,david.gonzalez123@example.com,(886) 960-9850,6876 Elm St,Miami,FL,30253,USA,Corporate,2023-01-15,2023-01-15
+CUST00124,Michael,Kumar,michael.kumar124@example.com,(617) 486-1536,6080 Oak Ave,Portland,OR,68115,USA,Corporate,2023-09-23,2023-09-23
+CUST00125,Jessica,Ali,jessica.ali125@example.com,(902) 576-9920,5886 Main St,Denver,CO,62184,USA,Corporate,2022-04-12,2022-04-12
+CUST00126,Richard,Brown,richard.brown126@example.com,(878) 417-1349,838 Maple Dr,Miami,FL,41925,USA,Consumer,2022-04-04,2022-04-04
+CUST00127,Lucas,Miller,lucas.miller127@example.com,(412) 800-4538,3827 Maple Dr,Chicago,IL,29340,USA,Home Office,2023-07-22,2023-07-22
+CUST00128,James,Rodriguez,james.rodriguez128@example.com,(753) 456-3858,1811 Sunset Blvd,Phoenix,AZ,13379,USA,Consumer,2022-05-14,2022-05-14
+CUST00129,James,Lopez,james.lopez129@example.com,(531) 216-3854,4357 Main St,San Diego,CA,26614,USA,Home Office,2023-08-26,2023-08-26
+CUST00130,Yuki,Taylor,yuki.taylor130@example.com,(687) 659-6931,8418 Elm St,Houston,TX,24293,USA,Corporate,2022-03-07,2022-03-07
+CUST00131,Omar,Davis,omar.davis131@example.com,(944) 874-9543,4951 2nd St,Nashville,TN,94323,USA,Consumer,2022-02-14,2022-02-14
+CUST00132,Patricia,Thomas,patricia.thomas132@example.com,(902) 310-9032,7277 Main St,Boston,MA,20589,USA,Corporate,2023-03-13,2023-03-13
+CUST00133,Kwame,Jones,kwame.jones133@example.com,(481) 839-9984,5337 2nd St,Chicago,IL,88301,USA,Home Office,2022-05-10,2022-05-10
+CUST00134,Charles,Anderson,charles.anderson134@example.com,(640) 301-2874,9043 Sunset Blvd,Charlotte,NC,38183,USA,Corporate,2023-09-12,2023-09-12
+CUST00135,Aisha,Yamamoto,aisha.yamamoto135@example.com,(547) 664-7532,6825 Sunset Blvd,San Diego,CA,22463,USA,Corporate,2023-02-28,2023-02-28
+CUST00136,Chen,Hernandez,chen.hernandez136@example.com,(356) 903-8770,1109 Main St,Dallas,TX,21188,USA,Consumer,2023-01-19,2023-01-19
+CUST00137,Chen,Brown,chen.brown137@example.com,(769) 261-6400,2012 2nd St,Denver,CO,56346,USA,Home Office,2022-05-14,2022-05-14
+CUST00138,Chen,Ali,chen.ali138@example.com,(814) 519-6761,1707 Elm St,Los Angeles,CA,76507,USA,Consumer,2022-10-22,2022-10-22
+CUST00139,Elizabeth,Khan,elizabeth.khan139@example.com,(310) 558-7022,1892 Maple Dr,Portland,OR,85248,USA,Consumer,2022-08-18,2022-08-18
+CUST00140,Chen,Ali,chen.ali140@example.com,(828) 891-1430,9987 Sunset Blvd,Detroit,MI,45054,USA,Consumer,2023-09-29,2023-09-29
+CUST00141,Barbara,Rodriguez,barbara.rodriguez141@example.com,(559) 206-3972,2357 Elm St,Austin,TX,96159,USA,Corporate,2022-12-14,2022-12-14
+CUST00142,John,Jones,john.jones142@example.com,(964) 743-4524,6173 2nd St,New York,NY,69460,USA,Corporate,2022-04-04,2022-04-04
+CUST00143,William,Lopez,william.lopez143@example.com,(995) 781-2391,871 Oak Ave,Austin,TX,30632,USA,Home Office,2022-11-29,2022-11-29
+CUST00144,Patricia,Khan,patricia.khan144@example.com,(653) 877-7947,7967 Elm St,Chicago,IL,67939,USA,Corporate,2022-10-06,2022-10-06
+CUST00145,Sarah,Miller,sarah.miller145@example.com,(553) 640-2816,4650 Sunset Blvd,Charlotte,NC,98930,USA,Home Office,2022-04-27,2022-04-27
+CUST00146,Anna,Taylor,anna.taylor146@example.com,(425) 604-1897,135 Oak Ave,Austin,TX,49507,USA,Consumer,2022-02-16,2022-02-16
+CUST00147,David,Nguyen,david.nguyen147@example.com,(535) 322-1126,8159 Sunset Blvd,Dallas,TX,66446,USA,Consumer,2022-10-24,2022-10-24
+CUST00148,David,Gonzalez,david.gonzalez148@example.com,(712) 772-6802,1190 2nd St,Detroit,MI,15544,USA,Corporate,2022-08-24,2022-08-24
+CUST00149,Mary,Anderson,mary.anderson149@example.com,(789) 639-7626,6853 Maple Dr,Chicago,IL,25096,USA,Corporate,2022-11-17,2022-11-17
+CUST00150,Mary,Hernandez,mary.hernandez150@example.com,(671) 906-6928,1453 2nd St,Philadelphia,PA,23875,USA,Consumer,2023-09-25,2023-09-25
+CUST00151,Chen,Jackson,chen.jackson151@example.com,(280) 605-6083,5572 Oak Ave,Boston,MA,53655,USA,Consumer,2023-06-21,2023-06-21
+CUST00152,John,Taylor,john.taylor152@example.com,(722) 398-6724,5762 Sunset Blvd,Houston,TX,94599,USA,Consumer,2023-06-28,2023-06-28
+CUST00153,Jessica,Brown,jessica.brown153@example.com,(402) 377-3504,1244 Oak Ave,Phoenix,AZ,92306,USA,Corporate,2022-09-20,2022-09-20
+CUST00154,Diego,Nguyen,diego.nguyen154@example.com,(659) 897-6295,5189 Oak Ave,Minneapolis,MN,67640,USA,Consumer,2023-08-17,2023-08-17
+CUST00155,Ravi,Anderson,ravi.anderson155@example.com,(805) 257-6766,8322 Main St,Austin,TX,50685,USA,Corporate,2022-10-09,2022-10-09
+CUST00156,Aisha,Johnson,aisha.johnson156@example.com,(493) 278-2479,9743 Elm St,Los Angeles,CA,60394,USA,Corporate,2023-01-13,2023-01-13
+CUST00157,Elena,Moore,elena.moore157@example.com,(785) 867-4084,5277 Elm St,Los Angeles,CA,72341,USA,Home Office,2023-04-06,2023-04-06
+CUST00158,Elizabeth,Johnson,elizabeth.johnson158@example.com,(551) 931-2381,8276 Sunset Blvd,Miami,FL,32617,USA,Consumer,2022-04-16,2022-04-16
+CUST00159,Jessica,Chen,jessica.chen159@example.com,(736) 735-3600,5972 Maple Dr,Miami,FL,47079,USA,Corporate,2023-03-26,2023-03-26
+CUST00160,Yuki,Nguyen,yuki.nguyen160@example.com,(812) 253-6482,1089 Maple Dr,Seattle,WA,22387,USA,Home Office,2023-11-27,2023-11-27
+CUST00161,Carlos,Martinez,carlos.martinez161@example.com,(817) 353-6461,1345 Elm St,Dallas,TX,96980,USA,Consumer,2023-11-04,2023-11-04
+CUST00162,Wei,Martinez,wei.martinez162@example.com,(809) 925-2388,5082 Elm St,Boston,MA,59372,USA,Home Office,2022-05-13,2022-05-13
+CUST00163,Amit,Kumar,amit.kumar163@example.com,(919) 956-9624,1541 Sunset Blvd,Phoenix,AZ,97878,USA,Corporate,2023-11-18,2023-11-18
+CUST00164,Omar,Lopez,omar.lopez164@example.com,(516) 384-4509,5608 2nd St,New York,NY,35166,USA,Consumer,2023-01-07,2023-01-07
+CUST00165,David,Jones,david.jones165@example.com,(303) 719-9843,8636 Main St,Chicago,IL,96760,USA,Corporate,2022-10-30,2022-10-30
+CUST00166,Nadia,Jones,nadia.jones166@example.com,(357) 366-3962,2722 Sunset Blvd,Nashville,TN,67366,USA,Consumer,2023-01-21,2023-01-21
+CUST00167,Yuki,Lopez,yuki.lopez167@example.com,(825) 491-8355,3843 Elm St,San Diego,CA,41348,USA,Corporate,2023-03-31,2023-03-31
+CUST00168,Ravi,Yamamoto,ravi.yamamoto168@example.com,(894) 784-8218,7574 Maple Dr,San Antonio,TX,60052,USA,Home Office,2023-01-12,2023-01-12
+CUST00169,Ingrid,Wilson,ingrid.wilson169@example.com,(819) 341-5096,864 Sunset Blvd,Philadelphia,PA,72991,USA,Corporate,2022-07-24,2022-07-24
+CUST00170,Mei,Mensah,mei.mensah170@example.com,(327) 491-2374,2636 Maple Dr,Houston,TX,68893,USA,Home Office,2023-06-13,2023-06-13
+CUST00171,Elizabeth,Kumar,elizabeth.kumar171@example.com,(427) 661-6727,446 2nd St,Atlanta,GA,16980,USA,Corporate,2022-04-04,2022-04-04
+CUST00172,Omar,Lopez,omar.lopez172@example.com,(283) 583-4678,471 Maple Dr,San Diego,CA,22987,USA,Home Office,2023-01-31,2023-01-31
+CUST00173,Amit,Silva,amit.silva173@example.com,(239) 493-8740,2283 Sunset Blvd,Phoenix,AZ,71487,USA,Corporate,2022-05-21,2022-05-21
+CUST00174,Nadia,Smith,nadia.smith174@example.com,(462) 420-3449,9001 Sunset Blvd,Chicago,IL,89807,USA,Home Office,2022-01-20,2022-01-20
+CUST00175,Chen,Brown,chen.brown175@example.com,(508) 324-1782,3916 2nd St,Austin,TX,93748,USA,Home Office,2022-09-01,2022-09-01
+CUST00176,Diego,Williams,diego.williams176@example.com,(811) 748-1269,8453 Elm St,Houston,TX,41711,USA,Home Office,2023-05-27,2023-05-27
+CUST00177,Elizabeth,Martinez,elizabeth.martinez177@example.com,(829) 561-4941,9359 2nd St,Atlanta,GA,34551,USA,Home Office,2022-01-02,2022-01-02
+CUST00178,Jennifer,Taylor,jennifer.taylor178@example.com,(738) 757-9312,8326 Elm St,Denver,CO,12665,USA,Corporate,2022-03-11,2022-03-11
+CUST00179,Ravi,Johnson,ravi.johnson179@example.com,(459) 965-1266,5860 Main St,Boston,MA,55193,USA,Consumer,2023-01-18,2023-01-18
+CUST00180,Michael,Nguyen,michael.nguyen180@example.com,(336) 245-6772,8955 Maple Dr,Minneapolis,MN,94252,USA,Consumer,2022-12-07,2022-12-07
+CUST00181,Diego,Chen,diego.chen181@example.com,(386) 338-2033,7508 Main St,Portland,OR,48462,USA,Consumer,2023-10-09,2023-10-09
+CUST00182,Robert,Silva,robert.silva182@example.com,(523) 517-9444,6534 Elm St,San Antonio,TX,72049,USA,Corporate,2022-02-12,2022-02-12
+CUST00183,Robert,Nguyen,robert.nguyen183@example.com,(565) 999-1783,5448 Maple Dr,San Antonio,TX,26315,USA,Corporate,2022-10-20,2022-10-20
+CUST00184,Chen,Yamamoto,chen.yamamoto184@example.com,(595) 547-4060,8139 Sunset Blvd,Boston,MA,75211,USA,Corporate,2023-03-27,2023-03-27
+CUST00185,Ingrid,Rodriguez,ingrid.rodriguez185@example.com,(280) 640-3956,8947 Maple Dr,Chicago,IL,52101,USA,Consumer,2023-03-11,2023-03-11
+CUST00186,Jennifer,Hernandez,jennifer.hernandez186@example.com,(656) 817-7981,2740 Sunset Blvd,Austin,TX,68183,USA,Corporate,2022-11-10,2022-11-10
+CUST00187,Aisha,Johnson,aisha.johnson187@example.com,(645) 481-1939,1239 Sunset Blvd,Denver,CO,93560,USA,Corporate,2023-09-22,2023-09-22
+CUST00188,Fatima,Taylor,fatima.taylor188@example.com,(346) 822-8179,580 Oak Ave,Philadelphia,PA,18812,USA,Consumer,2022-02-01,2022-02-01
+CUST00189,Fatima,Lopez,fatima.lopez189@example.com,(233) 819-3513,7381 Maple Dr,Boston,MA,58760,USA,Corporate,2023-08-04,2023-08-04
+CUST00190,John,Jackson,john.jackson190@example.com,(575) 607-6150,4576 Oak Ave,Phoenix,AZ,24869,USA,Consumer,2023-06-27,2023-06-27
+CUST00191,Barbara,Thomas,barbara.thomas191@example.com,(775) 320-5288,4274 Sunset Blvd,Charlotte,NC,68493,USA,Consumer,2023-02-01,2023-02-01
+CUST00192,Nadia,Martinez,nadia.martinez192@example.com,(325) 338-2213,7416 Oak Ave,Portland,OR,68341,USA,Consumer,2022-07-24,2022-07-24
+CUST00193,Priya,Khan,priya.khan193@example.com,(763) 755-5757,4924 Oak Ave,Denver,CO,93584,USA,Consumer,2022-03-08,2022-03-08
+CUST00194,Fatima,Taylor,fatima.taylor194@example.com,(405) 342-4878,8104 Main St,San Diego,CA,57303,USA,Home Office,2022-05-05,2022-05-05
+CUST00195,Lucas,Lopez,lucas.lopez195@example.com,(332) 826-2412,1087 Maple Dr,Miami,FL,62187,USA,Home Office,2023-07-19,2023-07-19
+CUST00196,Ravi,Taylor,ravi.taylor196@example.com,(788) 275-3053,5204 Sunset Blvd,Atlanta,GA,19720,USA,Corporate,2023-02-24,2023-02-24
+CUST00197,Diego,Khan,diego.khan197@example.com,(331) 998-3981,2124 2nd St,Charlotte,NC,75911,USA,Consumer,2022-12-19,2022-12-19
+CUST00198,Linda,Taylor,linda.taylor198@example.com,(368) 365-6286,3704 Maple Dr,Phoenix,AZ,78012,USA,Corporate,2022-11-08,2022-11-08
+CUST00199,Jennifer,Rodriguez,jennifer.rodriguez199@example.com,(764) 481-3050,4971 Elm St,San Antonio,TX,79924,USA,Consumer,2023-10-13,2023-10-13
+CUST00200,Omar,Patel,omar.patel200@example.com,(794) 357-3804,9924 Maple Dr,Philadelphia,PA,83874,USA,Consumer,2023-08-30,2023-08-30
+CUST00201,Mary,Williams,mary.williams201@example.com,(989) 790-5336,3463 Elm St,Los Angeles,CA,64602,USA,Home Office,2023-10-19,2023-10-19
+CUST00202,Mary,Thomas,mary.thomas202@example.com,(857) 509-8912,4022 Sunset Blvd,Detroit,MI,63227,USA,Corporate,2022-10-24,2022-10-24
+CUST00203,Diego,Williams,diego.williams203@example.com,(650) 625-8933,7619 Oak Ave,Los Angeles,CA,54589,USA,Home Office,2022-06-11,2022-06-11
+CUST00204,Elizabeth,Hernandez,elizabeth.hernandez204@example.com,(608) 333-7070,8447 Elm St,Seattle,WA,23917,USA,Corporate,2022-12-20,2022-12-20
+CUST00205,Jessica,Anderson,jessica.anderson205@example.com,(660) 453-3308,1596 Main St,Houston,TX,48038,USA,Corporate,2022-10-01,2022-10-01
+CUST00206,Nadia,Wilson,nadia.wilson206@example.com,(535) 791-6123,3120 Oak Ave,San Diego,CA,75308,USA,Home Office,2022-06-13,2022-06-13
+CUST00207,Diego,Thomas,diego.thomas207@example.com,(223) 292-7442,8291 2nd St,Austin,TX,41552,USA,Consumer,2023-05-25,2023-05-25
+CUST00208,Elena,Lopez,elena.lopez208@example.com,(488) 706-8710,4691 Elm St,Los Angeles,CA,11071,USA,Consumer,2022-02-21,2022-02-21
+CUST00209,Chen,Jones,chen.jones209@example.com,(982) 612-6995,751 2nd St,Dallas,TX,16705,USA,Home Office,2023-01-10,2023-01-10
+CUST00210,Mei,Miller,mei.miller210@example.com,(495) 275-7329,8271 2nd St,Denver,CO,82070,USA,Corporate,2023-07-21,2023-07-21
+CUST00211,Nadia,Khan,nadia.khan211@example.com,(331) 299-7453,6124 Maple Dr,Nashville,TN,83116,USA,Corporate,2022-05-02,2022-05-02
+CUST00212,Elizabeth,Miller,elizabeth.miller212@example.com,(611) 712-1659,752 Main St,Nashville,TN,27961,USA,Home Office,2023-06-06,2023-06-06
+CUST00213,Amit,Silva,amit.silva213@example.com,(667) 352-9446,2300 Maple Dr,Portland,OR,90356,USA,Corporate,2023-06-16,2023-06-16
+CUST00214,William,Gonzalez,william.gonzalez214@example.com,(807) 544-9311,8361 Elm St,Nashville,TN,74205,USA,Home Office,2022-11-03,2022-11-03
+CUST00215,Lucas,Martinez,lucas.martinez215@example.com,(577) 539-2795,6834 Elm St,Portland,OR,50327,USA,Home Office,2022-01-18,2022-01-18
+CUST00216,Mary,Martin,mary.martin216@example.com,(871) 994-4728,851 Elm St,Portland,OR,72973,USA,Consumer,2022-09-29,2022-09-29
+CUST00217,Ingrid,Patel,ingrid.patel217@example.com,(351) 897-4968,527 Elm St,Nashville,TN,24404,USA,Consumer,2023-01-25,2023-01-25
+CUST00218,Mary,Anderson,mary.anderson218@example.com,(355) 622-4340,6733 Elm St,Seattle,WA,90147,USA,Corporate,2023-03-05,2023-03-05
+CUST00219,Patricia,Chen,patricia.chen219@example.com,(412) 774-6325,7847 Elm St,Phoenix,AZ,59391,USA,Corporate,2023-06-16,2023-06-16
+CUST00220,Barbara,Anderson,barbara.anderson220@example.com,(759) 562-5331,7942 Oak Ave,Detroit,MI,42311,USA,Corporate,2022-12-17,2022-12-17
+CUST00221,Mei,Martinez,mei.martinez221@example.com,(989) 495-4396,8021 Maple Dr,San Diego,CA,72888,USA,Corporate,2022-11-01,2022-11-01
+CUST00222,Mei,Mensah,mei.mensah222@example.com,(324) 787-9899,6230 2nd St,Dallas,TX,55237,USA,Consumer,2022-10-22,2022-10-22
+CUST00223,Charles,Johnson,charles.johnson223@example.com,(554) 652-5201,7859 Oak Ave,Austin,TX,36485,USA,Home Office,2022-03-22,2022-03-22
+CUST00224,Sarah,Mensah,sarah.mensah224@example.com,(340) 311-4920,3982 Main St,Detroit,MI,97796,USA,Home Office,2022-10-06,2022-10-06
+CUST00225,Joseph,Patel,joseph.patel225@example.com,(302) 623-6411,7749 Main St,San Diego,CA,99285,USA,Consumer,2022-02-23,2022-02-23
+CUST00226,James,Moore,james.moore226@example.com,(868) 687-8822,3277 Maple Dr,Philadelphia,PA,52096,USA,Corporate,2023-02-21,2023-02-21
+CUST00227,Patricia,Mensah,patricia.mensah227@example.com,(787) 437-9767,621 Oak Ave,Chicago,IL,64773,USA,Consumer,2023-10-30,2023-10-30
+CUST00228,Robert,Kumar,robert.kumar228@example.com,(390) 966-5742,623 Main St,Boston,MA,49110,USA,Home Office,2023-05-23,2023-05-23
+CUST00229,Kwame,Brown,kwame.brown229@example.com,(665) 856-9901,8600 2nd St,Seattle,WA,27589,USA,Home Office,2022-10-19,2022-10-19
+CUST00230,Diego,Rodriguez,diego.rodriguez230@example.com,(538) 366-8518,4225 Sunset Blvd,San Antonio,TX,34405,USA,Consumer,2022-04-26,2022-04-26
+CUST00231,Amit,Silva,amit.silva231@example.com,(890) 975-4164,2885 Elm St,Austin,TX,93719,USA,Corporate,2023-08-05,2023-08-05
+CUST00232,Chen,Taylor,chen.taylor232@example.com,(610) 885-2562,3037 Oak Ave,Seattle,WA,72580,USA,Corporate,2022-03-30,2022-03-30
+CUST00233,Jessica,Smith,jessica.smith233@example.com,(441) 657-5374,5410 Maple Dr,Dallas,TX,86344,USA,Home Office,2023-01-28,2023-01-28
+CUST00234,Lucas,Smith,lucas.smith234@example.com,(568) 909-4871,1027 Sunset Blvd,Dallas,TX,25495,USA,Corporate,2023-11-01,2023-11-01
+CUST00235,Karen,Garcia,karen.garcia235@example.com,(920) 988-6095,1933 Sunset Blvd,Boston,MA,48671,USA,Corporate,2023-05-30,2023-05-30
+CUST00236,Nadia,Davis,nadia.davis236@example.com,(689) 356-8454,9934 Maple Dr,San Diego,CA,64505,USA,Home Office,2022-05-17,2022-05-17
+CUST00237,Mei,Mensah,mei.mensah237@example.com,(880) 423-5054,9771 Main St,Portland,OR,78879,USA,Corporate,2023-07-05,2023-07-05
+CUST00238,Ingrid,Chen,ingrid.chen238@example.com,(777) 314-2011,8982 Elm St,Denver,CO,36497,USA,Home Office,2022-03-21,2022-03-21
+CUST00239,Hassan,Jones,hassan.jones239@example.com,(732) 652-2904,3375 Sunset Blvd,Philadelphia,PA,86434,USA,Corporate,2022-12-02,2022-12-02
+CUST00240,Jennifer,Yamamoto,jennifer.yamamoto240@example.com,(256) 664-3161,8419 2nd St,Charlotte,NC,69873,USA,Home Office,2023-04-02,2023-04-02
+CUST00241,Patricia,Moore,patricia.moore241@example.com,(515) 940-1356,6497 Maple Dr,Miami,FL,10395,USA,Home Office,2023-11-20,2023-11-20
+CUST00242,Susan,Jackson,susan.jackson242@example.com,(633) 552-2044,8876 Main St,Chicago,IL,19046,USA,Corporate,2022-02-16,2022-02-16
+CUST00243,Robert,Martinez,robert.martinez243@example.com,(987) 338-7887,6145 2nd St,Atlanta,GA,68790,USA,Corporate,2022-07-04,2022-07-04
+CUST00244,Carlos,Williams,carlos.williams244@example.com,(869) 556-2943,2934 Elm St,Detroit,MI,61518,USA,Home Office,2022-05-17,2022-05-17
+CUST00245,David,Kim,david.kim245@example.com,(974) 223-5888,7595 Sunset Blvd,San Diego,CA,81361,USA,Corporate,2022-01-04,2022-01-04
+CUST00246,Hassan,Gonzalez,hassan.gonzalez246@example.com,(671) 554-3541,4526 Oak Ave,San Diego,CA,24790,USA,Consumer,2022-09-11,2022-09-11
+CUST00247,Yuki,Martin,yuki.martin247@example.com,(411) 268-2653,9741 Main St,New York,NY,68515,USA,Home Office,2022-09-04,2022-09-04
+CUST00248,Patricia,Davis,patricia.davis248@example.com,(649) 439-9843,3569 Main St,Los Angeles,CA,28367,USA,Home Office,2023-02-16,2023-02-16
+CUST00249,Charles,Davis,charles.davis249@example.com,(791) 812-6253,3891 Maple Dr,Minneapolis,MN,28777,USA,Home Office,2022-11-23,2022-11-23
+CUST00250,Ingrid,Davis,ingrid.davis250@example.com,(481) 262-3869,7009 Elm St,Atlanta,GA,74962,USA,Consumer,2022-11-04,2022-11-04
+CUST00251,Wei,Patel,wei.patel251@example.com,(526) 913-7821,6698 Oak Ave,Boston,MA,49306,USA,Corporate,2023-06-22,2023-06-22
+CUST00252,Barbara,Nguyen,barbara.nguyen252@example.com,(446) 430-5927,2375 2nd St,Detroit,MI,17552,USA,Home Office,2023-04-30,2023-04-30
+CUST00253,Yuki,Wilson,yuki.wilson253@example.com,(337) 597-4978,4187 Oak Ave,Detroit,MI,53288,USA,Home Office,2023-06-27,2023-06-27
+CUST00254,Jennifer,Mensah,jennifer.mensah254@example.com,(294) 748-4120,854 Maple Dr,Miami,FL,59436,USA,Home Office,2023-01-15,2023-01-15
+CUST00255,Kwame,Martin,kwame.martin255@example.com,(392) 979-4555,7864 Oak Ave,Los Angeles,CA,53642,USA,Corporate,2022-03-16,2022-03-16
+CUST00256,James,Miller,james.miller256@example.com,(964) 972-8846,3984 Sunset Blvd,San Antonio,TX,89220,USA,Home Office,2022-05-01,2022-05-01
+CUST00257,Susan,Gonzalez,susan.gonzalez257@example.com,(529) 994-5637,6246 2nd St,San Diego,CA,79946,USA,Home Office,2023-07-20,2023-07-20
+CUST00258,Wei,Martinez,wei.martinez258@example.com,(725) 709-8635,1625 Sunset Blvd,Dallas,TX,71537,USA,Corporate,2023-01-04,2023-01-04
+CUST00259,Susan,Lopez,susan.lopez259@example.com,(246) 776-4625,2400 Main St,Seattle,WA,44180,USA,Home Office,2023-02-28,2023-02-28
+CUST00260,Elena,Jackson,elena.jackson260@example.com,(356) 400-6404,3778 2nd St,Atlanta,GA,84683,USA,Consumer,2022-10-30,2022-10-30
+CUST00261,Anna,Moore,anna.moore261@example.com,(981) 700-9037,7560 Oak Ave,Seattle,WA,56160,USA,Consumer,2022-09-21,2022-09-21
+CUST00262,David,Kim,david.kim262@example.com,(388) 755-1962,8594 Main St,Detroit,MI,19742,USA,Home Office,2023-05-16,2023-05-16
+CUST00263,Patricia,Nguyen,patricia.nguyen263@example.com,(340) 845-4791,1123 Sunset Blvd,New York,NY,29795,USA,Consumer,2023-02-27,2023-02-27
+CUST00264,Susan,Taylor,susan.taylor264@example.com,(261) 832-8916,8003 Main St,Miami,FL,10866,USA,Home Office,2023-01-18,2023-01-18
+CUST00265,Mei,Wilson,mei.wilson265@example.com,(742) 939-5501,8787 Maple Dr,New York,NY,12246,USA,Home Office,2022-01-18,2022-01-18
+CUST00266,Chen,Silva,chen.silva266@example.com,(298) 736-3439,3958 Oak Ave,Philadelphia,PA,91235,USA,Home Office,2022-04-20,2022-04-20
+CUST00267,Thomas,Kumar,thomas.kumar267@example.com,(606) 280-7112,6662 2nd St,Denver,CO,84055,USA,Consumer,2022-10-01,2022-10-01
+CUST00268,Joseph,Martinez,joseph.martinez268@example.com,(865) 977-1519,1541 2nd St,Chicago,IL,59710,USA,Corporate,2023-11-01,2023-11-01
+CUST00269,Mei,Thomas,mei.thomas269@example.com,(209) 919-3807,1364 2nd St,Los Angeles,CA,66873,USA,Home Office,2023-10-15,2023-10-15
+CUST00270,Amit,Jackson,amit.jackson270@example.com,(243) 435-4463,9296 2nd St,Houston,TX,45532,USA,Consumer,2023-06-25,2023-06-25
+CUST00271,John,Khan,john.khan271@example.com,(777) 873-1539,2948 Maple Dr,Dallas,TX,12052,USA,Consumer,2023-07-11,2023-07-11
+CUST00272,Elena,Jones,elena.jones272@example.com,(506) 366-4939,9294 2nd St,Boston,MA,98740,USA,Home Office,2022-03-20,2022-03-20
+CUST00273,Amit,Gonzalez,amit.gonzalez273@example.com,(712) 963-6666,889 Main St,Phoenix,AZ,67290,USA,Consumer,2022-03-22,2022-03-22
+CUST00274,John,Hernandez,john.hernandez274@example.com,(809) 606-6347,495 Sunset Blvd,Nashville,TN,45825,USA,Corporate,2023-09-21,2023-09-21
+CUST00275,Anna,Davis,anna.davis275@example.com,(584) 642-4043,9608 Sunset Blvd,Denver,CO,59816,USA,Consumer,2023-07-21,2023-07-21
+CUST00276,Nadia,Martinez,nadia.martinez276@example.com,(284) 474-3526,6235 Sunset Blvd,San Diego,CA,93086,USA,Consumer,2022-03-17,2022-03-17
+CUST00277,Carlos,Hernandez,carlos.hernandez277@example.com,(293) 205-6050,7296 Maple Dr,Denver,CO,45358,USA,Consumer,2022-04-20,2022-04-20
+CUST00278,David,Williams,david.williams278@example.com,(659) 770-9395,6695 Main St,Philadelphia,PA,13442,USA,Consumer,2023-03-18,2023-03-18
+CUST00279,Wei,Moore,wei.moore279@example.com,(812) 532-7311,212 Maple Dr,Chicago,IL,64238,USA,Corporate,2023-09-04,2023-09-04
+CUST00280,Jennifer,Kim,jennifer.kim280@example.com,(785) 733-3778,6247 Oak Ave,Detroit,MI,28198,USA,Corporate,2022-09-06,2022-09-06
+CUST00281,Karen,Rodriguez,karen.rodriguez281@example.com,(264) 371-8121,4531 2nd St,Portland,OR,49289,USA,Corporate,2022-05-30,2022-05-30
+CUST00282,John,Lopez,john.lopez282@example.com,(938) 840-9123,9738 Elm St,Dallas,TX,35630,USA,Corporate,2022-09-10,2022-09-10
+CUST00283,Michael,Jones,michael.jones283@example.com,(605) 540-7224,5409 2nd St,Austin,TX,53874,USA,Corporate,2022-01-07,2022-01-07
+CUST00284,Kwame,Jones,kwame.jones284@example.com,(817) 911-4290,7858 Maple Dr,Austin,TX,33283,USA,Corporate,2022-11-25,2022-11-25
+CUST00285,Priya,Martinez,priya.martinez285@example.com,(448) 533-7161,4602 2nd St,Portland,OR,57843,USA,Consumer,2023-08-13,2023-08-13
+CUST00286,Lucas,Miller,lucas.miller286@example.com,(384) 898-1440,7573 Sunset Blvd,Minneapolis,MN,37479,USA,Corporate,2023-07-13,2023-07-13
+CUST00287,Charles,Kumar,charles.kumar287@example.com,(889) 711-3280,4971 Oak Ave,Chicago,IL,43119,USA,Home Office,2023-02-23,2023-02-23
+CUST00288,Elizabeth,Chen,elizabeth.chen288@example.com,(275) 659-8851,9549 2nd St,Atlanta,GA,80040,USA,Home Office,2023-01-22,2023-01-22
+CUST00289,Yuki,Moore,yuki.moore289@example.com,(918) 749-2392,1801 Oak Ave,Los Angeles,CA,96193,USA,Home Office,2023-01-04,2023-01-04
+CUST00290,Wei,Garcia,wei.garcia290@example.com,(776) 860-7547,5442 2nd St,Nashville,TN,23886,USA,Consumer,2022-02-15,2022-02-15
+CUST00291,Michael,Rodriguez,michael.rodriguez291@example.com,(964) 731-4621,7313 Maple Dr,San Diego,CA,61266,USA,Corporate,2023-06-07,2023-06-07
+CUST00292,Elena,Chen,elena.chen292@example.com,(553) 225-8909,1722 Maple Dr,Charlotte,NC,64522,USA,Consumer,2022-06-04,2022-06-04
+CUST00293,Linda,Kumar,linda.kumar293@example.com,(519) 551-8460,3399 Elm St,Phoenix,AZ,73298,USA,Corporate,2022-12-23,2022-12-23
+CUST00294,Ravi,Brown,ravi.brown294@example.com,(526) 268-5919,742 Sunset Blvd,Miami,FL,25084,USA,Consumer,2023-04-09,2023-04-09
+CUST00295,Amit,Patel,amit.patel295@example.com,(368) 958-4996,8464 Oak Ave,Houston,TX,82339,USA,Consumer,2023-11-25,2023-11-25
+CUST00296,Amit,Moore,amit.moore296@example.com,(437) 614-4022,3063 Sunset Blvd,Atlanta,GA,96154,USA,Corporate,2023-04-19,2023-04-19
+CUST00297,Sofia,Smith,sofia.smith297@example.com,(660) 806-8037,6380 Main St,Nashville,TN,38153,USA,Consumer,2022-07-22,2022-07-22
+CUST00298,Sarah,Nguyen,sarah.nguyen298@example.com,(304) 749-4063,6003 Maple Dr,Chicago,IL,35830,USA,Corporate,2023-08-15,2023-08-15
+CUST00299,Linda,Rodriguez,linda.rodriguez299@example.com,(854) 520-7367,6441 Elm St,Portland,OR,24972,USA,Corporate,2023-06-25,2023-06-25
+CUST00300,Wei,Ali,wei.ali300@example.com,(376) 889-5873,9679 Main St,Miami,FL,98094,USA,Consumer,2023-09-25,2023-09-25
+CUST00301,Priya,Brown,priya.brown301@example.com,(319) 387-7116,2326 Elm St,San Diego,CA,60916,USA,Corporate,2022-11-09,2022-11-09
+CUST00302,Kwame,Jones,kwame.jones302@example.com,(633) 390-8973,8814 Sunset Blvd,Minneapolis,MN,94575,USA,Consumer,2023-01-28,2023-01-28
+CUST00303,Mei,Garcia,mei.garcia303@example.com,(343) 391-6154,7399 Elm St,Portland,OR,17026,USA,Corporate,2022-10-23,2022-10-23
+CUST00304,James,Thomas,james.thomas304@example.com,(593) 775-9281,8119 2nd St,Phoenix,AZ,99744,USA,Corporate,2022-07-19,2022-07-19
+CUST00305,Yuki,Chen,yuki.chen305@example.com,(371) 284-1505,3623 Maple Dr,Miami,FL,14285,USA,Corporate,2023-05-16,2023-05-16
+CUST00306,Joseph,Moore,joseph.moore306@example.com,(999) 668-9115,9016 Elm St,Austin,TX,24838,USA,Home Office,2022-06-22,2022-06-22
+CUST00307,Linda,Rodriguez,linda.rodriguez307@example.com,(755) 974-1681,7241 Elm St,Detroit,MI,38644,USA,Corporate,2023-01-11,2023-01-11
+CUST00308,Michael,Kim,michael.kim308@example.com,(233) 660-5305,5721 Main St,San Diego,CA,67549,USA,Consumer,2022-11-01,2022-11-01
+CUST00309,Jessica,Miller,jessica.miller309@example.com,(927) 824-8015,2729 Elm St,Minneapolis,MN,28249,USA,Consumer,2022-12-26,2022-12-26
+CUST00310,Susan,Silva,susan.silva310@example.com,(559) 745-5605,9788 Elm St,Los Angeles,CA,32069,USA,Corporate,2023-08-07,2023-08-07
+CUST00311,Charles,Martinez,charles.martinez311@example.com,(726) 895-2560,2231 2nd St,Minneapolis,MN,17770,USA,Corporate,2022-10-01,2022-10-01
+CUST00312,David,Chen,david.chen312@example.com,(349) 928-6277,4065 Sunset Blvd,Phoenix,AZ,61472,USA,Corporate,2022-09-13,2022-09-13
+CUST00313,Elizabeth,Jackson,elizabeth.jackson313@example.com,(624) 584-8405,1247 Sunset Blvd,Dallas,TX,22202,USA,Corporate,2023-10-05,2023-10-05
+CUST00314,Omar,Kim,omar.kim314@example.com,(665) 699-6362,9544 Main St,Dallas,TX,22208,USA,Home Office,2023-01-13,2023-01-13
+CUST00315,Diego,Patel,diego.patel315@example.com,(747) 607-4568,7049 Oak Ave,Denver,CO,74843,USA,Corporate,2022-03-06,2022-03-06
+CUST00316,Priya,Kumar,priya.kumar316@example.com,(760) 791-3139,9285 2nd St,Austin,TX,55054,USA,Home Office,2022-12-12,2022-12-12
+CUST00317,Patricia,Johnson,patricia.johnson317@example.com,(670) 216-3035,2598 2nd St,Houston,TX,69836,USA,Consumer,2023-10-04,2023-10-04
+CUST00318,Chen,Miller,chen.miller318@example.com,(509) 362-5489,1539 Sunset Blvd,Phoenix,AZ,57242,USA,Corporate,2023-10-28,2023-10-28
+CUST00319,Jennifer,Lopez,jennifer.lopez319@example.com,(605) 840-6005,3846 2nd St,Philadelphia,PA,95915,USA,Consumer,2022-02-23,2022-02-23
+CUST00320,Michael,Smith,michael.smith320@example.com,(279) 335-4705,8520 Sunset Blvd,San Antonio,TX,68335,USA,Consumer,2023-05-04,2023-05-04
+CUST00321,James,Chen,james.chen321@example.com,(632) 910-3165,7836 Main St,Seattle,WA,40008,USA,Corporate,2022-05-04,2022-05-04
+CUST00322,Jennifer,Kim,jennifer.kim322@example.com,(520) 576-5902,2256 2nd St,Houston,TX,27451,USA,Home Office,2022-04-16,2022-04-16
+CUST00323,Elizabeth,Williams,elizabeth.williams323@example.com,(208) 824-3688,7220 Maple Dr,Charlotte,NC,37925,USA,Home Office,2023-07-31,2023-07-31
+CUST00324,Elizabeth,Mensah,elizabeth.mensah324@example.com,(903) 653-4559,1430 Main St,Atlanta,GA,28351,USA,Consumer,2023-09-23,2023-09-23
+CUST00325,Elena,Kim,elena.kim325@example.com,(639) 522-3290,4069 Maple Dr,Boston,MA,94491,USA,Consumer,2022-12-26,2022-12-26
+CUST00326,Jessica,Moore,jessica.moore326@example.com,(938) 822-5668,449 Sunset Blvd,Nashville,TN,49537,USA,Consumer,2023-09-07,2023-09-07
+CUST00327,Ingrid,Martin,ingrid.martin327@example.com,(965) 601-5842,904 Oak Ave,Charlotte,NC,74865,USA,Corporate,2022-07-13,2022-07-13
+CUST00328,Linda,Davis,linda.davis328@example.com,(808) 272-9655,207 Maple Dr,Portland,OR,51480,USA,Consumer,2023-10-16,2023-10-16
+CUST00329,Carlos,Ali,carlos.ali329@example.com,(574) 759-3830,7727 Main St,Minneapolis,MN,12187,USA,Home Office,2023-03-07,2023-03-07
+CUST00330,John,Smith,john.smith330@example.com,(240) 261-7520,8310 Maple Dr,Dallas,TX,92388,USA,Home Office,2022-08-09,2022-08-09
+CUST00331,Omar,Nguyen,omar.nguyen331@example.com,(918) 611-2350,8801 Elm St,Atlanta,GA,90746,USA,Consumer,2023-03-10,2023-03-10
+CUST00332,Sarah,Williams,sarah.williams332@example.com,(723) 408-3545,8798 Maple Dr,Austin,TX,61213,USA,Home Office,2022-03-22,2022-03-22
+CUST00333,John,Martinez,john.martinez333@example.com,(259) 450-2412,7128 Main St,Atlanta,GA,69424,USA,Home Office,2022-09-02,2022-09-02
+CUST00334,Kwame,Johnson,kwame.johnson334@example.com,(959) 873-3877,1966 Main St,Austin,TX,27984,USA,Home Office,2023-11-14,2023-11-14
+CUST00335,James,Garcia,james.garcia335@example.com,(735) 729-5247,2745 Maple Dr,Portland,OR,26637,USA,Home Office,2022-12-22,2022-12-22
+CUST00336,Sarah,Kim,sarah.kim336@example.com,(543) 639-5456,8592 Main St,Houston,TX,44465,USA,Home Office,2022-01-31,2022-01-31
+CUST00337,Lucas,Patel,lucas.patel337@example.com,(666) 723-6900,918 2nd St,Chicago,IL,84302,USA,Consumer,2023-05-24,2023-05-24
+CUST00338,Fatima,Garcia,fatima.garcia338@example.com,(787) 890-2889,3752 Sunset Blvd,Dallas,TX,76692,USA,Consumer,2022-04-16,2022-04-16
+CUST00339,Robert,Ali,robert.ali339@example.com,(247) 683-6963,6284 Oak Ave,New York,NY,33456,USA,Consumer,2022-09-08,2022-09-08
+CUST00340,Mei,Silva,mei.silva340@example.com,(529) 454-7819,5251 Maple Dr,Atlanta,GA,20208,USA,Home Office,2022-08-18,2022-08-18
+CUST00341,Fatima,Brown,fatima.brown341@example.com,(253) 383-4656,8460 Main St,Charlotte,NC,62550,USA,Consumer,2023-11-21,2023-11-21
+CUST00342,Diego,Ali,diego.ali342@example.com,(535) 288-8483,140 Maple Dr,Austin,TX,36302,USA,Corporate,2022-11-15,2022-11-15
+CUST00343,Lucas,Silva,lucas.silva343@example.com,(448) 675-7033,9704 2nd St,Austin,TX,35614,USA,Home Office,2023-09-30,2023-09-30
+CUST00344,Hassan,Nguyen,hassan.nguyen344@example.com,(206) 619-1391,3827 Elm St,San Diego,CA,55406,USA,Home Office,2022-06-04,2022-06-04
+CUST00345,James,Hernandez,james.hernandez345@example.com,(585) 955-6038,1713 Oak Ave,New York,NY,79443,USA,Consumer,2023-11-05,2023-11-05
+CUST00346,Yuki,Thomas,yuki.thomas346@example.com,(928) 486-2524,729 Oak Ave,Los Angeles,CA,78125,USA,Corporate,2022-05-26,2022-05-26
+CUST00347,Fatima,Anderson,fatima.anderson347@example.com,(297) 717-3187,6471 Main St,Chicago,IL,87580,USA,Home Office,2023-08-18,2023-08-18
+CUST00348,Patricia,Wilson,patricia.wilson348@example.com,(498) 467-6161,6448 Sunset Blvd,Phoenix,AZ,52762,USA,Corporate,2022-08-31,2022-08-31
+CUST00349,Aisha,Rodriguez,aisha.rodriguez349@example.com,(407) 339-2785,2556 Main St,San Diego,CA,31544,USA,Corporate,2022-03-18,2022-03-18
+CUST00350,Diego,Hernandez,diego.hernandez350@example.com,(748) 566-4401,7414 Maple Dr,Atlanta,GA,70731,USA,Corporate,2022-05-04,2022-05-04
+CUST00351,Linda,Williams,linda.williams351@example.com,(921) 913-1660,3532 Maple Dr,Philadelphia,PA,29441,USA,Consumer,2022-11-08,2022-11-08
+CUST00352,Jessica,Lopez,jessica.lopez352@example.com,(250) 893-5896,4272 Oak Ave,Boston,MA,14073,USA,Corporate,2023-06-10,2023-06-10
+CUST00353,Aisha,Moore,aisha.moore353@example.com,(296) 673-2669,2300 Main St,Detroit,MI,11567,USA,Consumer,2022-09-13,2022-09-13
+CUST00354,Joseph,Jones,joseph.jones354@example.com,(581) 902-2376,9550 Elm St,San Antonio,TX,43924,USA,Consumer,2023-02-15,2023-02-15
+CUST00355,Mary,Williams,mary.williams355@example.com,(654) 331-2506,5442 Main St,San Antonio,TX,15596,USA,Corporate,2023-10-24,2023-10-24
+CUST00356,Patricia,Garcia,patricia.garcia356@example.com,(941) 604-9128,493 2nd St,Minneapolis,MN,99550,USA,Corporate,2023-03-20,2023-03-20
+CUST00357,Barbara,Lopez,barbara.lopez357@example.com,(481) 486-8307,2445 Main St,San Antonio,TX,90492,USA,Home Office,2022-07-11,2022-07-11
+CUST00358,Nadia,Davis,nadia.davis358@example.com,(621) 763-8848,1009 Main St,Austin,TX,46670,USA,Corporate,2023-05-26,2023-05-26
+CUST00359,David,Wilson,david.wilson359@example.com,(738) 455-9907,329 2nd St,San Antonio,TX,57069,USA,Corporate,2023-10-21,2023-10-21
+CUST00360,Hassan,Silva,hassan.silva360@example.com,(779) 714-6269,6373 Maple Dr,Portland,OR,33568,USA,Consumer,2022-12-19,2022-12-19
+CUST00361,Priya,Martin,priya.martin361@example.com,(997) 487-1959,7738 Elm St,San Diego,CA,56849,USA,Home Office,2022-01-31,2022-01-31
+CUST00362,Joseph,Garcia,joseph.garcia362@example.com,(872) 446-5366,8753 Sunset Blvd,Houston,TX,17328,USA,Consumer,2022-09-11,2022-09-11
+CUST00363,Lucas,Ali,lucas.ali363@example.com,(377) 380-4875,9717 Maple Dr,Boston,MA,57026,USA,Home Office,2022-12-30,2022-12-30
+CUST00364,Mary,Chen,mary.chen364@example.com,(777) 345-4084,8074 Elm St,Denver,CO,50508,USA,Consumer,2023-08-05,2023-08-05
+CUST00365,Anna,Johnson,anna.johnson365@example.com,(438) 816-4584,336 Elm St,Chicago,IL,72650,USA,Consumer,2022-02-27,2022-02-27
+CUST00366,Amit,Mensah,amit.mensah366@example.com,(333) 548-3907,5311 Main St,Nashville,TN,12872,USA,Consumer,2022-07-26,2022-07-26
+CUST00367,Elena,Chen,elena.chen367@example.com,(738) 573-2188,6130 Sunset Blvd,Phoenix,AZ,96787,USA,Corporate,2022-04-24,2022-04-24
+CUST00368,Elena,Brown,elena.brown368@example.com,(530) 339-3580,7167 Sunset Blvd,Seattle,WA,73858,USA,Home Office,2022-11-06,2022-11-06
+CUST00369,Priya,Garcia,priya.garcia369@example.com,(565) 428-3872,6209 Maple Dr,Detroit,MI,48602,USA,Consumer,2023-09-21,2023-09-21
+CUST00370,Barbara,Kim,barbara.kim370@example.com,(600) 989-1530,2993 Elm St,New York,NY,51709,USA,Home Office,2023-08-10,2023-08-10
+CUST00371,Joseph,Patel,joseph.patel371@example.com,(708) 344-6425,1284 Oak Ave,Minneapolis,MN,55457,USA,Corporate,2022-04-17,2022-04-17
+CUST00372,William,Patel,william.patel372@example.com,(854) 946-6500,7327 Main St,Chicago,IL,44761,USA,Consumer,2023-11-18,2023-11-18
+CUST00373,Jessica,Chen,jessica.chen373@example.com,(462) 310-1020,798 2nd St,Chicago,IL,67438,USA,Home Office,2022-12-25,2022-12-25
+CUST00374,Yuki,Garcia,yuki.garcia374@example.com,(587) 559-9946,6159 Main St,Atlanta,GA,72847,USA,Home Office,2023-05-20,2023-05-20
+CUST00375,Joseph,Garcia,joseph.garcia375@example.com,(234) 501-1328,5231 Maple Dr,Miami,FL,23726,USA,Consumer,2022-03-17,2022-03-17
+CUST00376,Amit,Garcia,amit.garcia376@example.com,(949) 276-9962,1535 Maple Dr,Boston,MA,87860,USA,Home Office,2022-06-14,2022-06-14
+CUST00377,Ravi,Chen,ravi.chen377@example.com,(869) 368-8113,2583 Main St,New York,NY,23272,USA,Corporate,2023-03-18,2023-03-18
+CUST00378,Susan,Miller,susan.miller378@example.com,(939) 947-9849,4356 Sunset Blvd,Atlanta,GA,46899,USA,Corporate,2023-07-22,2023-07-22
+CUST00379,Jessica,Brown,jessica.brown379@example.com,(785) 762-9043,2526 Main St,Los Angeles,CA,57294,USA,Consumer,2023-02-07,2023-02-07
+CUST00380,Chen,Williams,chen.williams380@example.com,(840) 814-8869,3281 Main St,Austin,TX,13373,USA,Consumer,2023-11-09,2023-11-09
+CUST00381,William,Patel,william.patel381@example.com,(684) 318-6052,6522 2nd St,Austin,TX,74106,USA,Home Office,2022-03-25,2022-03-25
+CUST00382,Thomas,Williams,thomas.williams382@example.com,(389) 579-7249,6062 Oak Ave,Detroit,MI,68428,USA,Consumer,2023-02-01,2023-02-01
+CUST00383,Thomas,Anderson,thomas.anderson383@example.com,(431) 475-2009,2486 Sunset Blvd,Miami,FL,97486,USA,Consumer,2022-09-27,2022-09-27
+CUST00384,Jennifer,Khan,jennifer.khan384@example.com,(623) 974-4727,9080 Main St,Denver,CO,60738,USA,Home Office,2023-07-09,2023-07-09
+CUST00385,Yuki,Moore,yuki.moore385@example.com,(441) 687-5896,1303 2nd St,Portland,OR,14551,USA,Home Office,2023-08-10,2023-08-10
+CUST00386,Lucas,Yamamoto,lucas.yamamoto386@example.com,(893) 835-3415,1980 2nd St,Charlotte,NC,32659,USA,Consumer,2023-08-09,2023-08-09
+CUST00387,Susan,Silva,susan.silva387@example.com,(243) 633-2283,7143 Oak Ave,San Antonio,TX,92211,USA,Consumer,2022-05-10,2022-05-10
+CUST00388,Kwame,Rodriguez,kwame.rodriguez388@example.com,(289) 597-7510,9054 Maple Dr,Seattle,WA,46202,USA,Home Office,2022-03-10,2022-03-10
+CUST00389,Diego,Mensah,diego.mensah389@example.com,(801) 735-7874,1853 2nd St,New York,NY,29613,USA,Consumer,2023-10-01,2023-10-01
+CUST00390,Lucas,Jackson,lucas.jackson390@example.com,(308) 776-2654,4697 Elm St,Minneapolis,MN,55071,USA,Corporate,2022-04-13,2022-04-13
+CUST00391,Thomas,Gonzalez,thomas.gonzalez391@example.com,(823) 684-1613,2831 Maple Dr,Portland,OR,62818,USA,Consumer,2023-08-09,2023-08-09
+CUST00392,Nadia,Martin,nadia.martin392@example.com,(605) 539-4892,817 Sunset Blvd,Boston,MA,72287,USA,Corporate,2022-02-09,2022-02-09
+CUST00393,Fatima,Smith,fatima.smith393@example.com,(518) 487-9054,1619 Oak Ave,Seattle,WA,27614,USA,Corporate,2022-11-07,2022-11-07
+CUST00394,Aisha,Nguyen,aisha.nguyen394@example.com,(946) 626-2462,3089 2nd St,Seattle,WA,37707,USA,Corporate,2022-10-03,2022-10-03
+CUST00395,Anna,Nguyen,anna.nguyen395@example.com,(257) 727-3604,1085 Maple Dr,Charlotte,NC,76426,USA,Corporate,2023-01-18,2023-01-18
+CUST00396,David,Nguyen,david.nguyen396@example.com,(229) 377-4158,3298 Main St,Charlotte,NC,42701,USA,Consumer,2023-08-06,2023-08-06
+CUST00397,Diego,Johnson,diego.johnson397@example.com,(480) 577-8605,8285 2nd St,Denver,CO,93284,USA,Consumer,2022-07-23,2022-07-23
+CUST00398,Mary,Davis,mary.davis398@example.com,(808) 656-3909,7785 Elm St,Denver,CO,82264,USA,Corporate,2023-05-16,2023-05-16
+CUST00399,Wei,Garcia,wei.garcia399@example.com,(491) 228-7333,823 Oak Ave,Dallas,TX,85007,USA,Consumer,2022-04-03,2022-04-03
+CUST00400,Joseph,Patel,joseph.patel400@example.com,(411) 475-7709,8419 Main St,San Diego,CA,99417,USA,Consumer,2023-11-25,2023-11-25

@@ -1,0 +1,16 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,country,segment,created_at,updated_at
+CUST00243,Robert,Martinez,robert.martinez243@example.com,(987) 338-7887,5723 Cedar Ct,Boston,MA,43029,USA,Consumer,2022-07-04,2024-01-19
+CUST00068,Mary,Mensah,mary.mensah68@example.com,(893) 584-7498,4960 Cedar Ct,Miami,FL,86609,USA,Consumer,2023-08-13,2024-01-19
+CUST00332,Sarah,Williams,sarah.williams332@example.com,(723) 408-3545,8390 5th Ave,New York,NY,83591,USA,Home Office,2022-03-22,2024-01-19
+CUST00089,Patricia,Garcia,patricia.garcia89@example.com,(966) 782-5728,9988 5th Ave,Nashville,TN,49121,USA,Home Office,2023-09-02,2024-01-19
+CUST00308,Michael,Kim,michael.kim308@example.com,(233) 660-5305,7902 Riverside Rd,Houston,TX,54077,USA,Corporate,2022-11-01,2024-01-19
+CUST00005,Thomas,Silva,thomas.silva5@example.com,(749) 327-7201,4546 5th Ave,Seattle,WA,95998,USA,Home Office,2023-04-16,2024-01-19
+CUST00115,Joseph,Martin,joseph.martin115@example.com,(851) 394-5106,3096 Birch Ln,Austin,TX,77802,USA,Consumer,2022-08-13,2024-01-19
+CUST00130,Yuki,Taylor,yuki.taylor130@example.com,(687) 659-6931,9840 Cedar Ct,Los Angeles,CA,96577,USA,Corporate,2022-03-07,2024-01-19
+CUST00312,David,Chen,david.chen312@example.com,(349) 928-6277,427 Cedar Ct,Phoenix,AZ,48745,USA,Corporate,2022-09-13,2024-01-19
+CUST00157,Elena,Moore,elena.moore157@example.com,(785) 867-4084,6638 Cedar Ct,Atlanta,GA,14629,USA,Home Office,2023-04-06,2024-01-19
+CUST00365,Anna,Johnson,anna.johnson365@example.com,(438) 816-4584,3121 5th Ave,Minneapolis,MN,39145,USA,Home Office,2022-02-27,2024-01-19
+CUST00364,Mary,Chen,mary.chen364@example.com,(777) 345-4084,7804 5th Ave,Detroit,MI,76494,USA,Corporate,2023-08-05,2024-01-19
+CUST00330,John,Smith,john.smith330@example.com,(240) 261-7520,9156 Birch Ln,Philadelphia,PA,48506,USA,Consumer,2022-08-09,2024-01-19
+CUST00141,Barbara,Rodriguez,barbara.rodriguez141@example.com,(559) 206-3972,2106 5th Ave,Portland,OR,83273,USA,Consumer,2022-12-14,2024-01-19
+CUST00217,Ingrid,Patel,ingrid.patel217@example.com,(351) 897-4968,1473 Birch Ln,Seattle,WA,56567,USA,Consumer,2023-01-25,2024-01-19

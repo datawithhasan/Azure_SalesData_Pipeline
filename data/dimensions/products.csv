@@ -1,0 +1,133 @@
+product_id,product_name,category,subcategory,brand,unit_cost,unit_price,created_at
+PROD00001,Orbital Laptop Classic,Electronics,Laptops,Orbital,316.3,505.51,2023-08-23
+PROD00002,Cascade Laptop Pro,Electronics,Laptops,Cascade,188.19,264.6,2023-08-21
+PROD00003,Harbor Laptop Plus,Electronics,Laptops,Harbor,378.0,515.63,2023-05-28
+PROD00004,Aster Laptop Classic,Electronics,Laptops,Aster,347.66,571.38,2023-02-28
+PROD00005,Northwind Laptop Plus,Electronics,Laptops,Northwind,348.99,501.05,2022-12-17
+PROD00006,Orbital Laptop Lite,Electronics,Laptops,Orbital,394.94,830.78,2022-05-27
+PROD00007,Vertex Headphone Standard,Electronics,Headphones,Vertex,312.68,543.7,2022-07-01
+PROD00008,Beacon Headphone Classic,Electronics,Headphones,Beacon,255.63,333.4,2022-08-03
+PROD00009,Vertex Headphone Pro,Electronics,Headphones,Vertex,232.63,335.59,2022-05-13
+PROD00010,Harbor Headphone Lite,Electronics,Headphones,Harbor,176.32,297.36,2023-05-04
+PROD00011,Orbital Headphone Standard,Electronics,Headphones,Orbital,6.84,12.18,2023-01-18
+PROD00012,Northwind Headphone Max,Electronics,Headphones,Northwind,357.34,707.95,2022-07-15
+PROD00013,Northwind Smartphone Standard,Electronics,Smartphones,Northwind,252.54,384.86,2022-12-19
+PROD00014,Cascade Smartphone Max,Electronics,Smartphones,Cascade,55.93,92.02,2022-11-10
+PROD00015,Vertex Smartphone Classic,Electronics,Smartphones,Vertex,30.79,41.29,2023-04-12
+PROD00016,Zenith Smartphone Standard,Electronics,Smartphones,Zenith,240.57,385.89,2022-05-18
+PROD00017,Pioneer Camera Lite,Electronics,Cameras,Pioneer,146.9,215.88,2022-01-20
+PROD00018,Lumen Camera Plus,Electronics,Cameras,Lumen,93.61,204.67,2022-01-23
+PROD00019,Harbor Camera Standard,Electronics,Cameras,Harbor,204.33,288.28,2022-02-08
+PROD00020,Orbital Camera Max,Electronics,Cameras,Orbital,351.23,537.46,2022-02-19
+PROD00021,Harbor Camera Standard,Electronics,Cameras,Harbor,397.9,754.33,2022-01-21
+PROD00022,Northwind Camera Lite,Electronics,Cameras,Northwind,277.45,464.76,2022-05-07
+PROD00023,Pioneer Accessorie Standard,Electronics,Accessories,Pioneer,282.24,419.11,2022-01-10
+PROD00024,Cascade Accessorie Max,Electronics,Accessories,Cascade,171.24,238.17,2022-10-04
+PROD00025,Harbor Accessorie Pro,Electronics,Accessories,Harbor,244.23,347.65,2023-06-08
+PROD00026,Harbor Accessorie Pro,Electronics,Accessories,Harbor,51.51,72.25,2023-05-25
+PROD00027,Lumen Accessorie Max,Electronics,Accessories,Lumen,245.56,491.16,2022-07-26
+PROD00028,Beacon Accessorie Pro,Electronics,Accessories,Beacon,282.86,442.91,2023-07-16
+PROD00029,Lumen Chair Plus,Furniture,Chairs,Lumen,276.84,479.65,2022-01-03
+PROD00030,Northwind Chair Max,Furniture,Chairs,Northwind,270.3,572.01,2023-05-21
+PROD00031,Vertex Chair Pro,Furniture,Chairs,Vertex,380.03,760.66,2022-04-14
+PROD00032,Cascade Chair Classic,Furniture,Chairs,Cascade,259.51,444.04,2022-09-28
+PROD00033,Pioneer Chair Pro,Furniture,Chairs,Pioneer,24.78,50.35,2022-10-25
+PROD00034,Beacon Chair Standard,Furniture,Chairs,Beacon,321.63,508.64,2022-04-29
+PROD00035,Aster Chair Pro,Furniture,Chairs,Aster,341.24,717.03,2022-05-22
+PROD00036,Beacon Desk Max,Furniture,Desks,Beacon,146.22,247.69,2022-10-02
+PROD00037,Aster Desk Pro,Furniture,Desks,Aster,152.19,244.79,2023-02-15
+PROD00038,Orbital Desk Lite,Furniture,Desks,Orbital,385.11,594.86,2023-05-05
+PROD00039,Orbital Desk Pro,Furniture,Desks,Orbital,261.29,527.08,2022-05-16
+PROD00040,Northwind Desk Pro,Furniture,Desks,Northwind,392.72,808.97,2023-03-03
+PROD00041,Harbor Bookcase Lite,Furniture,Bookcases,Harbor,272.97,399.39,2023-01-03
+PROD00042,Harbor Bookcase Standard,Furniture,Bookcases,Harbor,16.38,31.38,2022-05-14
+PROD00043,Pioneer Bookcase Lite,Furniture,Bookcases,Pioneer,368.56,516.59,2023-03-28
+PROD00044,Northwind Bookcase Pro,Furniture,Bookcases,Northwind,30.02,56.72,2023-06-22
+PROD00045,Harbor Bookcase Standard,Furniture,Bookcases,Harbor,290.89,436.8,2022-12-13
+PROD00046,Zenith Bookcase Pro,Furniture,Bookcases,Zenith,211.63,408.56,2023-03-20
+PROD00047,Lumen Bookcase Standard,Furniture,Bookcases,Lumen,195.36,370.66,2023-01-30
+PROD00048,Zenith Table Pro,Furniture,Tables,Zenith,357.36,661.7,2022-06-10
+PROD00049,Zenith Table Plus,Furniture,Tables,Zenith,340.29,703.27,2022-03-18
+PROD00050,Pioneer Table Classic,Furniture,Tables,Pioneer,131.65,210.35,2022-02-21
+PROD00051,Zenith Table Lite,Furniture,Tables,Zenith,92.97,174.69,2022-08-29
+PROD00052,Aster Table Lite,Furniture,Tables,Aster,186.34,376.62,2022-04-01
+PROD00053,Pioneer Storage Standard,Furniture,Storage,Pioneer,129.84,283.39,2022-01-19
+PROD00054,Aster Storage Max,Furniture,Storage,Aster,164.36,218.97,2022-01-01
+PROD00055,Aster Storage Standard,Furniture,Storage,Aster,317.75,688.52,2022-11-08
+PROD00056,Zenith Storage Lite,Furniture,Storage,Zenith,227.12,429.06,2022-12-16
+PROD00057,Beacon Storage Lite,Furniture,Storage,Beacon,331.0,673.56,2022-12-06
+PROD00058,Zenith Storage Standard,Furniture,Storage,Zenith,308.13,566.95,2023-01-08
+PROD00059,Pioneer Storage Plus,Furniture,Storage,Pioneer,50.04,99.25,2022-01-03
+PROD00060,Beacon Paper Classic,Office Supplies,Paper,Beacon,332.8,721.51,2023-07-15
+PROD00061,Zenith Paper Plus,Office Supplies,Paper,Zenith,152.69,213.11,2023-05-20
+PROD00062,Vertex Paper Lite,Office Supplies,Paper,Vertex,329.63,648.8,2022-04-20
+PROD00063,Cascade Paper Lite,Office Supplies,Paper,Cascade,246.29,361.75,2022-08-09
+PROD00064,Pioneer Paper Classic,Office Supplies,Paper,Pioneer,330.7,486.63,2022-04-21
+PROD00065,Orbital Paper Standard,Office Supplies,Paper,Orbital,23.37,43.7,2022-05-07
+PROD00066,Pioneer Binder Plus,Office Supplies,Binders,Pioneer,265.09,572.75,2023-05-26
+PROD00067,Northwind Binder Lite,Office Supplies,Binders,Northwind,214.49,288.21,2023-08-23
+PROD00068,Pioneer Binder Plus,Office Supplies,Binders,Pioneer,370.13,741.36,2023-08-16
+PROD00069,Vertex Binder Lite,Office Supplies,Binders,Vertex,293.55,415.53,2022-11-26
+PROD00070,Zenith Binder Max,Office Supplies,Binders,Zenith,353.15,592.16,2022-09-12
+PROD00071,Cascade Binder Classic,Office Supplies,Binders,Cascade,162.16,260.85,2023-04-09
+PROD00072,Vertex Binder Standard,Office Supplies,Binders,Vertex,59.58,109.76,2023-06-09
+PROD00073,Zenith Pens & Pencil Max,Office Supplies,Pens & Pencils,Zenith,344.98,669.5,2022-08-11
+PROD00074,Lumen Pens & Pencil Standard,Office Supplies,Pens & Pencils,Lumen,87.84,170.67,2022-12-20
+PROD00075,Vertex Pens & Pencil Plus,Office Supplies,Pens & Pencils,Vertex,392.63,740.14,2023-05-31
+PROD00076,Zenith Pens & Pencil Pro,Office Supplies,Pens & Pencils,Zenith,279.25,444.05,2022-12-27
+PROD00077,Zenith Pens & Pencil Standard,Office Supplies,Pens & Pencils,Zenith,194.75,353.19,2023-03-04
+PROD00078,Zenith Pens & Pencil Pro,Office Supplies,Pens & Pencils,Zenith,117.94,243.26,2023-06-20
+PROD00079,Northwind Label Pro,Office Supplies,Labels,Northwind,155.44,209.5,2022-07-24
+PROD00080,Cascade Label Classic,Office Supplies,Labels,Cascade,301.32,435.36,2022-09-14
+PROD00081,Vertex Label Classic,Office Supplies,Labels,Vertex,336.56,646.71,2022-07-28
+PROD00082,Zenith Label Pro,Office Supplies,Labels,Zenith,17.76,36.1,2023-07-30
+PROD00083,Zenith Envelope Standard,Office Supplies,Envelopes,Zenith,158.61,279.13,2022-10-22
+PROD00084,Northwind Envelope Standard,Office Supplies,Envelopes,Northwind,370.96,611.64,2022-11-17
+PROD00085,Zenith Envelope Plus,Office Supplies,Envelopes,Zenith,26.25,51.69,2023-03-30
+PROD00086,Lumen Envelope Standard,Office Supplies,Envelopes,Lumen,365.04,706.05,2023-01-12
+PROD00087,Harbor Envelope Standard,Office Supplies,Envelopes,Harbor,220.91,407.15,2022-07-18
+PROD00088,Pioneer Men's Wear Plus,Apparel,Men's Wear,Pioneer,75.08,143.73,2022-06-27
+PROD00089,Zenith Men's Wear Classic,Apparel,Men's Wear,Zenith,52.14,69.69,2023-07-24
+PROD00090,Cascade Men's Wear Classic,Apparel,Men's Wear,Cascade,56.38,102.93,2022-01-06
+PROD00091,Beacon Men's Wear Pro,Apparel,Men's Wear,Beacon,189.2,405.6,2022-06-07
+PROD00092,Beacon Men's Wear Standard,Apparel,Men's Wear,Beacon,240.77,480.65,2022-11-05
+PROD00093,Pioneer Men's Wear Pro,Apparel,Men's Wear,Pioneer,317.01,569.08,2022-11-22
+PROD00094,Vertex Women's Wear Plus,Apparel,Women's Wear,Vertex,210.64,422.89,2023-03-02
+PROD00095,Zenith Women's Wear Plus,Apparel,Women's Wear,Zenith,217.13,300.24,2022-08-07
+PROD00096,Beacon Women's Wear Max,Apparel,Women's Wear,Beacon,135.77,212.37,2023-06-28
+PROD00097,Pioneer Women's Wear Standard,Apparel,Women's Wear,Pioneer,398.67,813.81,2022-01-10
+PROD00098,Aster Women's Wear Standard,Apparel,Women's Wear,Aster,269.23,457.99,2022-09-07
+PROD00099,Beacon Footwear Pro,Apparel,Footwear,Beacon,155.64,313.86,2023-01-31
+PROD00100,Cascade Footwear Max,Apparel,Footwear,Cascade,218.39,339.5,2023-01-19
+PROD00101,Zenith Footwear Pro,Apparel,Footwear,Zenith,322.11,547.91,2022-10-31
+PROD00102,Lumen Footwear Pro,Apparel,Footwear,Lumen,131.52,180.72,2022-06-21
+PROD00103,Aster Outerwear Plus,Apparel,Outerwear,Aster,88.26,164.74,2023-03-11
+PROD00104,Aster Outerwear Standard,Apparel,Outerwear,Aster,86.2,176.35,2023-03-22
+PROD00105,Aster Outerwear Lite,Apparel,Outerwear,Aster,300.02,431.54,2022-12-06
+PROD00106,Northwind Outerwear Classic,Apparel,Outerwear,Northwind,39.57,53.37,2023-07-26
+PROD00107,Harbor Accessorie Lite,Apparel,Accessories,Harbor,329.54,698.59,2023-02-02
+PROD00108,Pioneer Accessorie Pro,Apparel,Accessories,Pioneer,253.94,429.09,2023-02-03
+PROD00109,Aster Accessorie Max,Apparel,Accessories,Aster,216.26,405.98,2022-03-06
+PROD00110,Harbor Accessorie Classic,Apparel,Accessories,Harbor,22.98,47.42,2023-05-30
+PROD00111,Cascade Cookware Pro,Home & Kitchen,Cookware,Cascade,315.82,496.22,2022-10-16
+PROD00112,Pioneer Cookware Pro,Home & Kitchen,Cookware,Pioneer,155.66,317.53,2023-05-01
+PROD00113,Vertex Cookware Lite,Home & Kitchen,Cookware,Vertex,215.72,306.91,2023-07-13
+PROD00114,Cascade Cookware Standard,Home & Kitchen,Cookware,Cascade,384.25,549.35,2023-01-18
+PROD00115,Zenith Small Appliance Pro,Home & Kitchen,Small Appliances,Zenith,350.53,500.29,2022-01-06
+PROD00116,Harbor Small Appliance Pro,Home & Kitchen,Small Appliances,Harbor,240.68,429.24,2022-11-09
+PROD00117,Lumen Small Appliance Classic,Home & Kitchen,Small Appliances,Lumen,300.58,635.18,2022-08-05
+PROD00118,Orbital Small Appliance Plus,Home & Kitchen,Small Appliances,Orbital,362.72,749.49,2022-06-14
+PROD00119,Lumen Dinnerware Pro,Home & Kitchen,Dinnerware,Lumen,248.67,379.84,2022-07-05
+PROD00120,Harbor Dinnerware Max,Home & Kitchen,Dinnerware,Harbor,341.64,705.91,2023-04-18
+PROD00121,Zenith Dinnerware Classic,Home & Kitchen,Dinnerware,Zenith,33.89,64.54,2022-04-11
+PROD00122,Lumen Dinnerware Classic,Home & Kitchen,Dinnerware,Lumen,291.61,506.96,2023-01-01
+PROD00123,Vertex Dinnerware Classic,Home & Kitchen,Dinnerware,Vertex,270.16,408.23,2022-03-13
+PROD00124,Beacon Storage Standard,Home & Kitchen,Storage,Beacon,196.92,314.19,2022-11-10
+PROD00125,Harbor Storage Classic,Home & Kitchen,Storage,Harbor,65.2,118.02,2023-03-15
+PROD00126,Vertex Storage Plus,Home & Kitchen,Storage,Vertex,6.91,10.51,2023-03-23
+PROD00127,Cascade Storage Standard,Home & Kitchen,Storage,Cascade,336.84,478.61,2022-12-06
+PROD00128,Pioneer Storage Classic,Home & Kitchen,Storage,Pioneer,187.83,304.82,2023-05-14
+PROD00129,Vertex Decor Classic,Home & Kitchen,Decor,Vertex,259.99,357.17,2022-05-24
+PROD00130,Zenith Decor Standard,Home & Kitchen,Decor,Zenith,82.59,161.89,2022-03-20
+PROD00131,Aster Decor Standard,Home & Kitchen,Decor,Aster,357.38,737.86,2022-02-01
+PROD00132,Harbor Decor Plus,Home & Kitchen,Decor,Harbor,233.67,465.54,2022-02-07

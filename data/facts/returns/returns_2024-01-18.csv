@@ -1,0 +1,5 @@
+return_id,order_id,order_item_id,return_date,return_reason,refund_amount
+RET000004,ORD0000097,ITEM00000296,2024-01-18,Better price found,253.45
+RET000005,ORD0000169,ITEM00000501,2024-01-18,Defective item,210.14
+RET000006,ORD0000031,ITEM00000093,2024-01-18,Better price found,69.87
+RET000007,ORD0000024,ITEM00000072,2024-01-18,No longer needed,67.16

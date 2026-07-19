@@ -1,0 +1,19 @@
+store_id,store_name,region,city,state,store_type,opened_date
+STORE001,Detroit Central,West,Detroit,MI,Outlet,2016-11-10
+STORE002,Dallas Outlet,Southeast,Dallas,TX,Standard,2016-10-14
+STORE003,Nashville Central,West,Nashville,TN,Outlet,2022-05-24
+STORE004,Portland Central,Southwest,Portland,OR,Standard,2015-06-15
+STORE005,Phoenix Central,Southwest,Phoenix,AZ,Flagship,2015-09-15
+STORE006,Philadelphia Plaza,Midwest,Philadelphia,PA,Flagship,2015-06-25
+STORE007,San Antonio Central,West,San Antonio,TX,Standard,2019-05-09
+STORE008,Houston Mall,Southwest,Houston,TX,Flagship,2015-06-13
+STORE009,Austin Plaza,Northeast,Austin,TX,Outlet,2020-11-05
+STORE010,Charlotte Plaza,Midwest,Charlotte,NC,Outlet,2021-02-07
+STORE011,Chicago Outlet,Southeast,Chicago,IL,Standard,2022-05-01
+STORE012,San Diego Mall,Midwest,San Diego,CA,Outlet,2022-04-30
+STORE013,Los Angeles Downtown,West,Los Angeles,CA,Standard,2019-03-22
+STORE014,Boston Central,West,Boston,MA,Standard,2018-12-16
+STORE015,Denver Plaza,Southwest,Denver,CO,Standard,2021-10-10
+STORE016,Seattle Downtown,West,Seattle,WA,Flagship,2019-12-07
+STORE017,New York Central,Southeast,New York,NY,Flagship,2020-10-08
+STORE018,Miami Plaza,Southeast,Miami,FL,Flagship,2017-02-04
