@@ -1,0 +1,30 @@
+{
+	"name": "SourceGithubData",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "HttpServerGithubSource",
+			"type": "LinkedServiceReference"
+		},
+		"parameters": {
+			"SourceParameter": {
+				"type": "String"
+			}
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": {
+					"value": "@dataset().SourceParameter",
+					"type": "Expression"
+				}
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
