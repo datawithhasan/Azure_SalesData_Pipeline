@@ -1,0 +1,25 @@
+{
+	"name": "SalesDataIngestionTrigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "SalesDataFromGithubToADLS",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Hour",
+				"interval": 24,
+				"startTime": "2026-07-23T00:20:00",
+				"endTime": "2026-07-25T00:30:00",
+				"timeZone": "GMT Standard Time"
+			}
+		}
+	}
+}
