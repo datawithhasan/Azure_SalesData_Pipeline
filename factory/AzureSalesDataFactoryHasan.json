@@ -1,0 +1,15 @@
+{
+	"name": "AzureSalesDataFactoryHasan",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "northcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9dfddaa-6507-412c-90f5-f1790f00395a",
+		"tenantId": "d71f47b8-f81d-4514-ab45-a436f27d62d3"
+	}
+}
