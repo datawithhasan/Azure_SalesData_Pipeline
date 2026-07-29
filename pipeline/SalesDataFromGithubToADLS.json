@@ -5,6 +5,8 @@
 			{
 				"name": "LookupForGithubData",
 				"type": "Lookup",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [],
 				"policy": {
 					"timeout": "0.12:00:00",
@@ -35,6 +37,8 @@
 			{
 				"name": "ForEach",
 				"type": "ForEach",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "LookupForGithubData",
@@ -130,6 +134,8 @@
 			{
 				"name": "Succeeded",
 				"type": "WebActivity",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "ForEach",
@@ -158,6 +164,8 @@
 			{
 				"name": "Failed",
 				"type": "WebActivity",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "ForEach",
@@ -181,87 +189,6 @@
 						"value": "{\n  \"pipelineName\" : \"@{pipeline().Pipeline}\",\n  \"status\" : \"Failed\",\n  \"runId\" : \"@{pipeline().RunId}\",\n  \"time\" : \"@{utcNow()}\"\n}",
 						"type": "Expression"
 					}
-				}
-			},
-			{
-				"name": "Run_Bronze",
-				"type": "DatabricksNotebook",
-				"dependsOn": [
-					{
-						"activity": "ForEach",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
-				"policy": {
-					"timeout": "0.12:00:00",
-					"retry": 0,
-					"retryIntervalInSeconds": 30,
-					"secureOutput": false,
-					"secureInput": false
-				},
-				"userProperties": [],
-				"typeProperties": {
-					"notebookPath": "/Users/mdsiam.gcp@gmail.com/Azure_SalesData_Pipeline/lakehouse/bronze/bronze"
-				},
-				"linkedServiceName": {
-					"referenceName": "AzureDatabricks_LinkedService",
-					"type": "LinkedServiceReference"
-				}
-			},
-			{
-				"name": "Run_Silver",
-				"type": "DatabricksNotebook",
-				"dependsOn": [
-					{
-						"activity": "Run_Bronze",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
-				"policy": {
-					"timeout": "0.12:00:00",
-					"retry": 0,
-					"retryIntervalInSeconds": 30,
-					"secureOutput": false,
-					"secureInput": false
-				},
-				"userProperties": [],
-				"typeProperties": {
-					"notebookPath": "/Users/mdsiam.gcp@gmail.com/Azure_SalesData_Pipeline/lakehouse/silver/silver"
-				},
-				"linkedServiceName": {
-					"referenceName": "AzureDatabricks_LinkedService",
-					"type": "LinkedServiceReference"
-				}
-			},
-			{
-				"name": "Run_Gold",
-				"type": "DatabricksNotebook",
-				"dependsOn": [
-					{
-						"activity": "Run_Silver",
-						"dependencyConditions": [
-							"Succeeded"
-						]
-					}
-				],
-				"policy": {
-					"timeout": "0.12:00:00",
-					"retry": 0,
-					"retryIntervalInSeconds": 30,
-					"secureOutput": false,
-					"secureInput": false
-				},
-				"userProperties": [],
-				"typeProperties": {
-					"notebookPath": "/Users/mdsiam.gcp@gmail.com/Azure_SalesData_Pipeline/lakehouse/gold/gold"
-				},
-				"linkedServiceName": {
-					"referenceName": "AzureDatabricks_LinkedService",
-					"type": "LinkedServiceReference"
 				}
 			}
 		],
