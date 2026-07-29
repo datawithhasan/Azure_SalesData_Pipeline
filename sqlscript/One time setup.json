@@ -1,0 +1,17 @@
+{
+	"name": "One time setup",
+	"properties": {
+		"content": {
+			"query": "-- ============================================================\n-- ONE-TIME SETUP — run once, in this exact order.\n-- Do not need to rerun this after it succeeds, same principle\n-- as bronze/silver/gold_one_time_job notebooks in Databricks.\n-- ============================================================\n\n-- 1. Create the serving database\nCREATE DATABASE gold_serving;\n-- (after this runs, switch \"Use database\" dropdown to gold_serving\n--  before running everything below)\n\n-- 2. Master key — required before any credential can be stored\nCREATE MASTER KEY ENCRYPTION BY PASSWORD = '201530291@Synapse';\n\n-- 3. Explicit managed-identity credential — forces Synapse to\n--    authenticate as the WORKSPACE's identity, not the calling\n--    user (Azure AD pass-through would otherwise be the default)\nCREATE DATABASE SCOPED CREDENTIAL synapse_msi_credential\nWITH IDENTITY = 'Managed Identity';\n\n-- 4. External data source — root of the gold container, using\n--    the credential above\nCREATE EXTERNAL DATA SOURCE gold_lake\nWITH (\n    LOCATION = 'abfss://gold@azuresales.dfs.core.windows.net/',\n    CREDENTIAL = synapse_msi_credential\n);\n\n-- 5. Reusable file format object — every external table below\n--    references this by name, only needs to be created once\nCREATE EXTERNAL FILE FORMAT delta_format\nWITH (\n    FORMAT_TYPE = DELTA\n);\n\n",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "gold_serving",
+				"poolName": "Built-in"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
