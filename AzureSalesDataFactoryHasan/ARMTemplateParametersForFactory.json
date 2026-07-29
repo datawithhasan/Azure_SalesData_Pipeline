@@ -8,6 +8,9 @@
 		"AzureDataLakeStorage_accountKey": {
 			"value": ""
 		},
+		"AzureDatabricks_LinkedService_accessToken": {
+			"value": ""
+		},
 		"AzureDataLakeStorage_properties_typeProperties_url": {
 			"value": "https://azuresales.dfs.core.windows.net/"
 		},
