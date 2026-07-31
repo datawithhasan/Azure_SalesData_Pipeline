@@ -195,13 +195,6 @@ flowchart TD
 
 ---
 
-## Future improvements
-
-- **Persist `generate_report`'s output** to a Delta table (`gold.pipeline_run_reports`) rather than only surfacing it in the run's console output, giving queryable history across every past run instead of having to open individual job runs to see past results.
-- **Environment separation** (dev/staging/prod) with GitHub Actions environment protection rules or Azure DevOps Pipeline approval gates, rather than a single production deployment target.
-- **Databricks Asset Bundles** for fully declarative job/infrastructure definitions, as an alternative to the current notebook-based CI/CD deployment.
-
----
 
 ## Tech stack
 
