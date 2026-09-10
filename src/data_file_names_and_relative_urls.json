@@ -59,6 +59,11 @@
         "sink_folder": "facts/order_items" 
     },
     {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/order_items/order_items_2024-01-22.csv",
+        "file_name": "order_items_2024-01-22.csv",
+        "sink_folder": "facts/order_items"
+    },
+    {
         "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-15.csv",
         "file_name": "orders_2024-01-15.csv",
         "sink_folder": "facts/sales_orders"
@@ -86,6 +91,11 @@
     {
         "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-20.csv",
         "file_name": "orders_2024-01-20.csv",
+        "sink_folder": "facts/sales_orders"
+    },
+    {
+        "relative_url": "Azure_SalesData_Pipeline/refs/heads/main/data/facts/sales_orders/orders_2024-01-22.csv",
+        "file_name": "orders_2024-01-22.csv",
         "sink_folder": "facts/sales_orders"
     },
     {
