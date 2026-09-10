@@ -1,0 +1,12 @@
+{
+	"name": "HttpServerJsonFile",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/datawithhasan/Azure_SalesData_Pipeline/refs/heads/main/src/data_file_names_and_relative_urls.json",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
