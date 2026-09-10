@@ -1,0 +1,37 @@
+name: CI/CD - Databricks Notebook Deployment
+
+on:
+  push:
+    branches: [Databricks_publish]
+
+jobs:
+  ci-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: CI - Validate Python notebook syntax
+        run: |
+          find . -name "*.py" -exec python -m py_compile {} \;
+
+  deploy:
+    needs: ci-check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Databricks CLI
+        uses: databricks/setup-cli@main
+
+      - name: CD - Sync notebooks to production workspace folder
+        run: |
+          databricks workspace import-dir ./lakehouse /Workspace/CD_Production_SalesPipeline --overwrite
+        env:
+          DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+          DATABRICKS_CLIENT_ID: ${{ secrets.DATABRICKS_CLIENT_ID }}
+          DATABRICKS_CLIENT_SECRET: ${{ secrets.DATABRICKS_CLIENT_SECRET }}
